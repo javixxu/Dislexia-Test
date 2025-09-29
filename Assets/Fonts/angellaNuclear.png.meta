@@ -1,0 +1,2742 @@
+fileFormatVersion: 2
+guid: 99b7b47e8332ba041a4cff9fd8d82780
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2158963761480176005
+    second: angellaNuclear_0
+  - first:
+      213: 5840218636041255080
+    second: angellaNuclear_1
+  - first:
+      213: -910094644523227230
+    second: angellaNuclear_2
+  - first:
+      213: -4909576074378621010
+    second: angellaNuclear_3
+  - first:
+      213: 5059824835261867239
+    second: angellaNuclear_4
+  - first:
+      213: 4537210073465707246
+    second: angellaNuclear_5
+  - first:
+      213: 8544962822736657082
+    second: angellaNuclear_6
+  - first:
+      213: 1254412062621763531
+    second: angellaNuclear_7
+  - first:
+      213: 8048655692559948762
+    second: angellaNuclear_8
+  - first:
+      213: 8110613012641778793
+    second: angellaNuclear_9
+  - first:
+      213: -7675737387878291858
+    second: angellaNuclear_10
+  - first:
+      213: 5792357354353793845
+    second: angellaNuclear_11
+  - first:
+      213: -6356831939917757257
+    second: angellaNuclear_12
+  - first:
+      213: -3364151457478893952
+    second: angellaNuclear_13
+  - first:
+      213: 6299504333457116048
+    second: angellaNuclear_14
+  - first:
+      213: -4504846983498322813
+    second: angellaNuclear_15
+  - first:
+      213: -1904374873525044145
+    second: angellaNuclear_16
+  - first:
+      213: -2841921738533601379
+    second: angellaNuclear_17
+  - first:
+      213: 7807941633391108139
+    second: angellaNuclear_18
+  - first:
+      213: 3707962235020052060
+    second: angellaNuclear_19
+  - first:
+      213: 7212803533988446648
+    second: angellaNuclear_20
+  - first:
+      213: 8267780279703617613
+    second: angellaNuclear_21
+  - first:
+      213: 5966479911688090847
+    second: angellaNuclear_22
+  - first:
+      213: -84247888185937772
+    second: angellaNuclear_23
+  - first:
+      213: 5385242164148413922
+    second: angellaNuclear_24
+  - first:
+      213: 1759108894348501016
+    second: angellaNuclear_25
+  - first:
+      213: 6185057022622053832
+    second: angellaNuclear_26
+  - first:
+      213: -9021453393959259765
+    second: angellaNuclear_27
+  - first:
+      213: 588526260626856709
+    second: angellaNuclear_28
+  - first:
+      213: -4360241240499853181
+    second: angellaNuclear_29
+  - first:
+      213: -7993569470486254697
+    second: angellaNuclear_30
+  - first:
+      213: -7060982165214339442
+    second: angellaNuclear_31
+  - first:
+      213: 7438118473384767282
+    second: angellaNuclear_32
+  - first:
+      213: 2289703674091853216
+    second: angellaNuclear_33
+  - first:
+      213: 4991112754653881403
+    second: angellaNuclear_34
+  - first:
+      213: 2694355472175646426
+    second: angellaNuclear_35
+  - first:
+      213: -8121512524662716948
+    second: angellaNuclear_36
+  - first:
+      213: 827367134336240730
+    second: angellaNuclear_37
+  - first:
+      213: -4551101648006601144
+    second: angellaNuclear_38
+  - first:
+      213: -2833145929052515577
+    second: angellaNuclear_39
+  - first:
+      213: -5624960073250173046
+    second: angellaNuclear_40
+  - first:
+      213: -4595375780500682308
+    second: angellaNuclear_41
+  - first:
+      213: -2882898349625808663
+    second: angellaNuclear_42
+  - first:
+      213: -4802388884402647005
+    second: angellaNuclear_43
+  - first:
+      213: 4391685079824807646
+    second: angellaNuclear_44
+  - first:
+      213: -8261809653619742480
+    second: angellaNuclear_45
+  - first:
+      213: -7815283285686320521
+    second: angellaNuclear_46
+  - first:
+      213: 1201131465157365745
+    second: angellaNuclear_47
+  - first:
+      213: 4216402663090393808
+    second: angellaNuclear_48
+  - first:
+      213: -5145996253696505064
+    second: angellaNuclear_49
+  - first:
+      213: 8243502121501127409
+    second: angellaNuclear_50
+  - first:
+      213: 2338184679539379367
+    second: angellaNuclear_51
+  - first:
+      213: -1376637496041566993
+    second: angellaNuclear_52
+  - first:
+      213: -1318613627340327272
+    second: angellaNuclear_53
+  - first:
+      213: 4548782109625930803
+    second: angellaNuclear_54
+  - first:
+      213: 7080111046253121389
+    second: angellaNuclear_55
+  - first:
+      213: 5327601097293517338
+    second: angellaNuclear_56
+  - first:
+      213: -6468677420571311930
+    second: angellaNuclear_57
+  - first:
+      213: 5609191624417998365
+    second: angellaNuclear_58
+  - first:
+      213: 1321291257765414786
+    second: angellaNuclear_59
+  - first:
+      213: -6413743372697917412
+    second: angellaNuclear_60
+  - first:
+      213: -5629688650090465926
+    second: angellaNuclear_61
+  - first:
+      213: 2911570483064018156
+    second: angellaNuclear_62
+  - first:
+      213: -7314354935035817447
+    second: angellaNuclear_63
+  - first:
+      213: -8952605189730287259
+    second: angellaNuclear_64
+  - first:
+      213: 8337472618445809740
+    second: angellaNuclear_65
+  - first:
+      213: -8342426631515565692
+    second: angellaNuclear_66
+  - first:
+      213: -6893739314858065991
+    second: angellaNuclear_67
+  - first:
+      213: 3641157940698978230
+    second: angellaNuclear_68
+  - first:
+      213: 106888951480702201
+    second: angellaNuclear_69
+  - first:
+      213: 8473572670380470213
+    second: angellaNuclear_70
+  - first:
+      213: 2455159056445636586
+    second: angellaNuclear_71
+  - first:
+      213: -265756134129041490
+    second: angellaNuclear_72
+  - first:
+      213: -577827189559360520
+    second: angellaNuclear_73
+  - first:
+      213: 3805983964953068828
+    second: angellaNuclear_74
+  - first:
+      213: 7763437493025113817
+    second: angellaNuclear_75
+  - first:
+      213: 2447060282306085859
+    second: angellaNuclear_76
+  - first:
+      213: -7206316633422070520
+    second: angellaNuclear_77
+  - first:
+      213: -6010489021850646989
+    second: angellaNuclear_78
+  - first:
+      213: 3983150549571298017
+    second: angellaNuclear_79
+  - first:
+      213: -3557002250748254268
+    second: angellaNuclear_80
+  - first:
+      213: -1081602227782408570
+    second: angellaNuclear_81
+  - first:
+      213: 6377918199369861111
+    second: angellaNuclear_82
+  - first:
+      213: -1238857309259759415
+    second: angellaNuclear_83
+  - first:
+      213: -4427858399868330952
+    second: angellaNuclear_84
+  - first:
+      213: -6480212929334243251
+    second: angellaNuclear_85
+  - first:
+      213: 4995761542930437622
+    second: angellaNuclear_86
+  - first:
+      213: 3287711669799901138
+    second: angellaNuclear_87
+  - first:
+      213: -2635034770269842745
+    second: angellaNuclear_88
+  - first:
+      213: -4100435575043106225
+    second: angellaNuclear_89
+  - first:
+      213: 8621252492465457905
+    second: angellaNuclear_90
+  - first:
+      213: 5552616189927632158
+    second: angellaNuclear_91
+  - first:
+      213: -4968381628771699738
+    second: angellaNuclear_92
+  - first:
+      213: 7736230427586177708
+    second: angellaNuclear_93
+  - first:
+      213: 2661551711557590273
+    second: angellaNuclear_94
+  - first:
+      213: -3267960186843849292
+    second: angellaNuclear_95
+  - first:
+      213: 8922194842703587712
+    second: angellaNuclear_96
+  - first:
+      213: 8461132619472771241
+    second: angellaNuclear_97
+  - first:
+      213: -4888018089049584238
+    second: angellaNuclear_98
+  - first:
+      213: 1811326814004905119
+    second: angellaNuclear_99
+  - first:
+      213: 6444029294441852474
+    second: angellaNuclear_100
+  - first:
+      213: -7016737150631961558
+    second: angellaNuclear_101
+  - first:
+      213: -2287182982653109449
+    second: angellaNuclear_102
+  - first:
+      213: 746798810541869963
+    second: angellaNuclear_103
+  - first:
+      213: -6183345882195508293
+    second: angellaNuclear_104
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angellaNuclear_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 578
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e680ac5e1d902e0800000000000000
+      internalID: -2158963761480176005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 579
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8fadb18ef9c0150800000000000000
+      internalID: 5840218636041255080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 579
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a725312eb1be53f0800000000000000
+      internalID: -910094644523227230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 579
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafc7e8829eaddbb0800000000000000
+      internalID: -4909576074378621010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 579
+        width: 41
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4ab7b21eb183640800000000000000
+      internalID: 5059824835261867239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 580
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea5f3cc58867fe30800000000000000
+      internalID: 4537210073465707246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_6
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 587
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba33240a6ec59670800000000000000
+      internalID: 8544962822736657082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 588
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc70982ff11986110800000000000000
+      internalID: 1254412062621763531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_8
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 588
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb167275b192bf60800000000000000
+      internalID: 8048655692559948762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_9
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 588
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c8c29209fae8070800000000000000
+      internalID: 8110613012641778793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_10
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 588
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e666456738d4a7590800000000000000
+      internalID: -7675737387878291858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 509
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b11661356926050800000000000000
+      internalID: 5792357354353793845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 509
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b44854d70ff7c7a0800000000000000
+      internalID: -6356831939917757257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 509
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e9b5ec2122051d0800000000000000
+      internalID: -3364151457478893952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 509
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bceb8a0d55c6750800000000000000
+      internalID: 6299504333457116048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_15
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 511
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ca71549819b71c0800000000000000
+      internalID: -4504846983498322813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_16
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 510
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c3c50742d4295e0800000000000000
+      internalID: -1904374873525044145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_17
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 510
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f7e376c377f88d0800000000000000
+      internalID: -2841921738533601379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_18
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 510
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20a24d1c816b5c60800000000000000
+      internalID: 7807941633391108139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_19
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 510
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c560fe2d104557330800000000000000
+      internalID: 3707962235020052060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_20
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 512
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1401e5996091460800000000000000
+      internalID: 7212803533988446648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_21
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 512
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40c6bc1c5e0db270800000000000000
+      internalID: 8267780279703617613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 444
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd43caf2ed13dc250800000000000000
+      internalID: 5966479911688090847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_23
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 445
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490b997fdf0b4def0800000000000000
+      internalID: -84247888185937772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_24
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 444
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5a58f47393cba40800000000000000
+      internalID: 5385242164148413922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 445
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8106fd0283c996810800000000000000
+      internalID: 1759108894348501016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 445
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c53cec979cb5d550800000000000000
+      internalID: 6185057022622053832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_27
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 445
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81f0579feb5dc280800000000000000
+      internalID: -9021453393959259765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_28
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 445
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b17a1148dda2800800000000000000
+      internalID: 588526260626856709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_29
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 445
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3886ffc71bf4d73c0800000000000000
+      internalID: -4360241240499853181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_30
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 446
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b62481be2211190800000000000000
+      internalID: -7993569470486254697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_31
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 444
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ed705a12a520e90800000000000000
+      internalID: -7060982165214339442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 380
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fae5bb751893760800000000000000
+      internalID: 7438118473384767282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_33
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 380
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5d6273c59a6cf10800000000000000
+      internalID: 2289703674091853216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_34
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 380
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34e0173b9ef34540800000000000000
+      internalID: 4991112754653881403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_35
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 380
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6c8a1d606446520800000000000000
+      internalID: 2694355472175646426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 381
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5c79073679a4f80800000000000000
+      internalID: -8121512524662716948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_37
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 381
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cc1fc66066b7b00800000000000000
+      internalID: 827367134336240730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_38
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 381
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8462fd5f92d37d0c0800000000000000
+      internalID: -4551101648006601144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_39
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 381
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7031bf5c9c4aea8d0800000000000000
+      internalID: -2833145929052515577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_40
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 381
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f0b2e9d9020f1b0800000000000000
+      internalID: -5624960073250173046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_41
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 381
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9c2d13312f930c0800000000000000
+      internalID: -4595375780500682308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 317
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e86efaa933edf7d0800000000000000
+      internalID: -2882898349625808663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_43
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 317
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32055e7f0cc7a5db0800000000000000
+      internalID: -4802388884402647005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_44
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 317
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6375cdf4662fc30800000000000000
+      internalID: 4391685079824807646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_45
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 317
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f82a1a94e7285d80800000000000000
+      internalID: -8261809653619742480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_46
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 317
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7728e9142498a8390800000000000000
+      internalID: -7815283285686320521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_47
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 317
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffcf3524b64ba010800000000000000
+      internalID: 1201131465157365745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_48
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 317
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d29383f1eba38a30800000000000000
+      internalID: 4216402663090393808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_49
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 318
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bcde20cafb598b0800000000000000
+      internalID: -5145996253696505064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_50
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 317
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2f049e08dc66270800000000000000
+      internalID: 8243502121501127409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_51
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 317
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac843be396e27020800000000000000
+      internalID: 2338184679539379367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 254
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec85f7bd7335ece0800000000000000
+      internalID: -1376637496041566993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_53
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 254
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896f36a64e753bde0800000000000000
+      internalID: -1318613627340327272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_54
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 254
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334d7ec6a35802f30800000000000000
+      internalID: 4548782109625930803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_55
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 254
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f8c3a0c7b914260800000000000000
+      internalID: 7080111046253121389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_56
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 254
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12592d98f07fe940800000000000000
+      internalID: 5327601097293517338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_57
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 254
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0c1449824aa36a0800000000000000
+      internalID: -6468677420571311930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_58
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 254
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16f78a401ad7dd40800000000000000
+      internalID: 5609191624417998365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_59
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 254
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287cfeff56b265210800000000000000
+      internalID: 1321291257765414786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_60
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 254
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1823dd426ecdf6a0800000000000000
+      internalID: -6413743372697917412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_61
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 254
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a753f4700045fd1b0800000000000000
+      internalID: -5629688650090465926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_62
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 254
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce41b8d9de9f76820800000000000000
+      internalID: 2911570483064018156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_63
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 255
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912901090f03e7a90800000000000000
+      internalID: -7314354935035817447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561cecb4305f1c380800000000000000
+      internalID: -8952605189730287259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_65
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 192
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4822033c27a4b370800000000000000
+      internalID: 8337472618445809740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_66
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 192
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48191cfbd2fb93c80800000000000000
+      internalID: -8342426631515565692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 192
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf7db32e948450a0800000000000000
+      internalID: -6893739314858065991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_68
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 192
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7947afaddf78230800000000000000
+      internalID: 3641157940698978230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_69
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 192
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4db6f5feebb7100800000000000000
+      internalID: 106888951480702201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_70
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 192
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf6c74e27d289570800000000000000
+      internalID: 8473572670380470213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_71
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 192
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef7682672a721220800000000000000
+      internalID: 2455159056445636586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_72
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 192
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf7b5c3438df4cf0800000000000000
+      internalID: -265756134129041490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_73
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 193
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f380c88b352bf7f0800000000000000
+      internalID: -577827189559360520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_74
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 193
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c154cdb404291d430800000000000000
+      internalID: 3805983964953068828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_75
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 131
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d606b774454dbb60800000000000000
+      internalID: 7763437493025113817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_76
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 133
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e342d69c54b5f120800000000000000
+      internalID: 2447060282306085859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_77
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 137
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d73edd3350efb90800000000000000
+      internalID: -7206316633422070520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_78
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 138
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336053e5414769ca0800000000000000
+      internalID: -6010489021850646989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_79
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 138
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2691a325ef64730800000000000000
+      internalID: 3983150549571298017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_80
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 138
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7a2ea7c4df2aec0800000000000000
+      internalID: -3557002250748254268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_81
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 138
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68622c021806df0f0800000000000000
+      internalID: -1081602227782408570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_82
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 138
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f780f78fcae28850800000000000000
+      internalID: 6377918199369861111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_83
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 138
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c00d2a47d1becee0800000000000000
+      internalID: -1238857309259759415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_84
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 139
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c5e10ce361d82c0800000000000000
+      internalID: -4427858399868330952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_85
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 78
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d409326aca8a116a0800000000000000
+      internalID: -6480212929334243251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_86
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 78
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f51de497a2845540800000000000000
+      internalID: 4995761542930437622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_87
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 78
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7545a385c40ad20800000000000000
+      internalID: 3287711669799901138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_88
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 78
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2534366d97e6bd0800000000000000
+      internalID: -2635034770269842745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_89
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 78
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a5e2dc1935817c0800000000000000
+      internalID: -4100435575043106225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_90
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 78
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faca5ce677d4a770800000000000000
+      internalID: 8621252492465457905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_91
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 79
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d28b6710bde0d40800000000000000
+      internalID: 5552616189927632158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_92
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 79
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e37c747b33cc0bb0800000000000000
+      internalID: -4968381628771699738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_93
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 78
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caaa7d8e59c9c5b60800000000000000
+      internalID: 7736230427586177708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_94
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 85
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d19be1e2bbfe420800000000000000
+      internalID: 2661551711557590273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_95
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 85
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd9d03468fd5a2d0800000000000000
+      internalID: -3267960186843849292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_96
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 35
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0896b2800f002db70800000000000000
+      internalID: 8922194842703587712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_97
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 38
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a81525d94bfb6570800000000000000
+      internalID: 8461132619472771241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_98
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 42
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d048222754a2cb0800000000000000
+      internalID: -4888018089049584238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 42
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9407e8f320232910800000000000000
+      internalID: 1811326814004905119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_100
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 42
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3eea69508acd6950800000000000000
+      internalID: 6444029294441852474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_101
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 45
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c9b4edcba8f9e90800000000000000
+      internalID: -7016737150631961558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_102
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 45
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b94aef13b4240e0800000000000000
+      internalID: -2287182982653109449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_103
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 45
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b480dbf892d5a00800000000000000
+      internalID: 746798810541869963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaNuclear_104
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 45
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3cc505ea7503aa0800000000000000
+      internalID: -6183345882195508293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

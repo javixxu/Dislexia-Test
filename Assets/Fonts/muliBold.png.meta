@@ -1,0 +1,2992 @@
+fileFormatVersion: 2
+guid: bb4b8adcab6a3b0438eb8755913c3939
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4473364034150613850
+    second: muliBold_0
+  - first:
+      213: -1277140861502169137
+    second: muliBold_1
+  - first:
+      213: -3534495320134431615
+    second: muliBold_2
+  - first:
+      213: 6872532729114858340
+    second: muliBold_3
+  - first:
+      213: 1190462817236612905
+    second: muliBold_4
+  - first:
+      213: 3561103951440256572
+    second: muliBold_5
+  - first:
+      213: 7599693263411795985
+    second: muliBold_6
+  - first:
+      213: 769649901299398815
+    second: muliBold_7
+  - first:
+      213: -3402588531965882284
+    second: muliBold_8
+  - first:
+      213: -934751689879621184
+    second: muliBold_9
+  - first:
+      213: -5548166790408763860
+    second: muliBold_10
+  - first:
+      213: -6171658584195230175
+    second: muliBold_11
+  - first:
+      213: -4022703634201891078
+    second: muliBold_12
+  - first:
+      213: -3578551371450793137
+    second: muliBold_13
+  - first:
+      213: -9221730890014293725
+    second: muliBold_14
+  - first:
+      213: 636335321818548738
+    second: muliBold_15
+  - first:
+      213: 615223664669430149
+    second: muliBold_16
+  - first:
+      213: 441683655684489748
+    second: muliBold_17
+  - first:
+      213: -8786506883023012620
+    second: muliBold_18
+  - first:
+      213: -6547285587319138240
+    second: muliBold_19
+  - first:
+      213: -4491857950922872416
+    second: muliBold_20
+  - first:
+      213: -884544081330496869
+    second: muliBold_21
+  - first:
+      213: 4359665905418465874
+    second: muliBold_22
+  - first:
+      213: -4275018499375855703
+    second: muliBold_23
+  - first:
+      213: -144705239716502618
+    second: muliBold_24
+  - first:
+      213: 4090323129647466031
+    second: muliBold_25
+  - first:
+      213: 5913291361923772056
+    second: muliBold_26
+  - first:
+      213: 2751683303404389891
+    second: muliBold_27
+  - first:
+      213: 7130477123307534698
+    second: muliBold_28
+  - first:
+      213: 8353554565366477528
+    second: muliBold_29
+  - first:
+      213: -4209527910886881347
+    second: muliBold_30
+  - first:
+      213: -3443608000367673327
+    second: muliBold_31
+  - first:
+      213: -267694211709046402
+    second: muliBold_32
+  - first:
+      213: 2718911190409683408
+    second: muliBold_33
+  - first:
+      213: 8014482916050425269
+    second: muliBold_34
+  - first:
+      213: 436154114920465884
+    second: muliBold_35
+  - first:
+      213: 4362305753873211448
+    second: muliBold_36
+  - first:
+      213: -4860117211297189353
+    second: muliBold_37
+  - first:
+      213: -2168723769186253123
+    second: muliBold_38
+  - first:
+      213: -3613252836177656956
+    second: muliBold_39
+  - first:
+      213: -460054308191085066
+    second: muliBold_40
+  - first:
+      213: 1632413138140067769
+    second: muliBold_41
+  - first:
+      213: 856955141990449270
+    second: muliBold_42
+  - first:
+      213: -1430516340877100455
+    second: muliBold_43
+  - first:
+      213: 3672742364779334101
+    second: muliBold_44
+  - first:
+      213: 179038769242118439
+    second: muliBold_45
+  - first:
+      213: 8940459669838975569
+    second: muliBold_46
+  - first:
+      213: -5598047665298446738
+    second: muliBold_47
+  - first:
+      213: 1957883419575210100
+    second: muliBold_48
+  - first:
+      213: -2715860409756969702
+    second: muliBold_49
+  - first:
+      213: -2345745828415331753
+    second: muliBold_50
+  - first:
+      213: -6844022474088772926
+    second: muliBold_51
+  - first:
+      213: -1546029515632062078
+    second: muliBold_52
+  - first:
+      213: 1841872982267820696
+    second: muliBold_53
+  - first:
+      213: -303241681077288581
+    second: muliBold_54
+  - first:
+      213: 8655390163878724604
+    second: muliBold_55
+  - first:
+      213: -5719736603151971092
+    second: muliBold_56
+  - first:
+      213: -5709172050224589358
+    second: muliBold_57
+  - first:
+      213: 8237971258373416755
+    second: muliBold_58
+  - first:
+      213: 2530526134043822641
+    second: muliBold_59
+  - first:
+      213: 7649055197063584900
+    second: muliBold_60
+  - first:
+      213: 5031571120177375849
+    second: muliBold_61
+  - first:
+      213: -1578846456038549322
+    second: muliBold_62
+  - first:
+      213: 9094159304533994719
+    second: muliBold_63
+  - first:
+      213: 6123178052802627400
+    second: muliBold_64
+  - first:
+      213: -4411107002625041632
+    second: muliBold_65
+  - first:
+      213: -7756990158956489902
+    second: muliBold_66
+  - first:
+      213: 4970936553655743664
+    second: muliBold_67
+  - first:
+      213: -2088513131457855762
+    second: muliBold_68
+  - first:
+      213: -3411189466666706625
+    second: muliBold_69
+  - first:
+      213: 229786799030153332
+    second: muliBold_70
+  - first:
+      213: -1122600986304878439
+    second: muliBold_71
+  - first:
+      213: -1172729635747358674
+    second: muliBold_72
+  - first:
+      213: 2603560718865176271
+    second: muliBold_73
+  - first:
+      213: -1746267830773041935
+    second: muliBold_74
+  - first:
+      213: -3117346090521273119
+    second: muliBold_75
+  - first:
+      213: 7526929553634761910
+    second: muliBold_76
+  - first:
+      213: -2330554398052357838
+    second: muliBold_77
+  - first:
+      213: 6744734212012736748
+    second: muliBold_78
+  - first:
+      213: 7247127176431312169
+    second: muliBold_79
+  - first:
+      213: 8378355592927238796
+    second: muliBold_80
+  - first:
+      213: 2491481180114316831
+    second: muliBold_81
+  - first:
+      213: 5566069067870432904
+    second: muliBold_82
+  - first:
+      213: 1077112500497246644
+    second: muliBold_83
+  - first:
+      213: -725595455590967359
+    second: muliBold_84
+  - first:
+      213: -5845659175117000143
+    second: muliBold_85
+  - first:
+      213: -5124215321301947457
+    second: muliBold_86
+  - first:
+      213: 7897885260377707489
+    second: muliBold_87
+  - first:
+      213: -5671619537757732550
+    second: muliBold_88
+  - first:
+      213: -6183216474294805810
+    second: muliBold_89
+  - first:
+      213: 4796509400351606706
+    second: muliBold_90
+  - first:
+      213: -5945036300190827514
+    second: muliBold_91
+  - first:
+      213: 8524069179701524857
+    second: muliBold_92
+  - first:
+      213: 3051958174863734775
+    second: muliBold_93
+  - first:
+      213: -2594843488395556694
+    second: muliBold_94
+  - first:
+      213: 2644992533777282868
+    second: muliBold_95
+  - first:
+      213: -8559047748466048652
+    second: muliBold_96
+  - first:
+      213: -3826267639288372533
+    second: muliBold_97
+  - first:
+      213: 6825272115376096765
+    second: muliBold_98
+  - first:
+      213: -4077465280416764715
+    second: muliBold_99
+  - first:
+      213: -5900190014698406519
+    second: muliBold_100
+  - first:
+      213: -3322607639662074815
+    second: muliBold_101
+  - first:
+      213: -174214711764728694
+    second: muliBold_102
+  - first:
+      213: 6221577602939471742
+    second: muliBold_103
+  - first:
+      213: 5216698554914089114
+    second: muliBold_104
+  - first:
+      213: -2298711862484204654
+    second: muliBold_105
+  - first:
+      213: 1808741189036226119
+    second: muliBold_106
+  - first:
+      213: -6411867280580413325
+    second: muliBold_107
+  - first:
+      213: 6210855168088037304
+    second: muliBold_108
+  - first:
+      213: 8754333139439215036
+    second: muliBold_109
+  - first:
+      213: -5878293093562566767
+    second: muliBold_110
+  - first:
+      213: -9124274017910074222
+    second: muliBold_111
+  - first:
+      213: 7765050306695807106
+    second: muliBold_112
+  - first:
+      213: 5804182988380650145
+    second: muliBold_113
+  - first:
+      213: -4755290563819566314
+    second: muliBold_114
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: muliBold_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acb171ac1b6be1c0800000000000000
+      internalID: -4473364034150613850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 201
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfd60e272fa64ee0800000000000000
+      internalID: -1277140861502169137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 201
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c4b1f9b33f2fec0800000000000000
+      internalID: -3534495320134431615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 201
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463132ada14206f50800000000000000
+      internalID: 6872532729114858340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 199
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927f2bbff9f558010800000000000000
+      internalID: 1190462817236612905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 217
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e16d12d259b6130800000000000000
+      internalID: 3561103951440256572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 201
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118d69712c8877960800000000000000
+      internalID: 7599693263411795985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 201
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f987d58e1885eaa00800000000000000
+      internalID: 769649901299398815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 199
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4501b5302c397c0d0800000000000000
+      internalID: -3402588531965882284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_9
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 217
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c177836a481703f0800000000000000
+      internalID: -934751689879621184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_10
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 207
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26011713b3f003b0800000000000000
+      internalID: -5548166790408763860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 200
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1269d0e673dd95aa0800000000000000
+      internalID: -6171658584195230175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 194
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe29be9b5c7c28c0800000000000000
+      internalID: -4022703634201891078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f434036dc7e665ec0800000000000000
+      internalID: -3578551371450793137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 188
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32183764d94d50080800000000000000
+      internalID: -9221730890014293725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 175
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a470f8a97b4d800800000000000000
+      internalID: 636335321818548738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 175
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5811906d9a6b98800800000000000000
+      internalID: 615223664669430149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 175
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4128b28d1fc212600800000000000000
+      internalID: 441683655684489748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 172
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc73e4fa8e001680800000000000000
+      internalID: -8786506883023012620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 175
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048dec4827e5325a0800000000000000
+      internalID: -6547285587319138240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 175
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a96ab51ef6b9a1c0800000000000000
+      internalID: -4491857950922872416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 171
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a1f1438d779b3f0800000000000000
+      internalID: -884544081330496869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_22
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 189
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25279dfda05a08c30800000000000000
+      internalID: 4359665905418465874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_23
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 188
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a78a7823551ca4c0800000000000000
+      internalID: -4275018499375855703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_24
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 181
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a36f85e957edfdf0800000000000000
+      internalID: -144705239716502618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 162
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f268337073fb3c830800000000000000
+      internalID: 4090323129647466031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e2ad8e92b301250800000000000000
+      internalID: 5913291361923772056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_27
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 149
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306cac9a261ff2620800000000000000
+      internalID: 2751683303404389891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 143
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a697bcd2a2b84f260800000000000000
+      internalID: 7130477123307534698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_29
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 130
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2f2804e99cde370800000000000000
+      internalID: 8353554565366477528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_30
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 149
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7ce770ba0c495c0800000000000000
+      internalID: -4209527910886881347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 149
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1104468c4c8d530d0800000000000000
+      internalID: -3443608000367673327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_32
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 149
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7177a26885f84cf0800000000000000
+      internalID: -267694211709046402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_33
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 168
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1243082538bb520800000000000000
+      internalID: 2718911190409683408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_34
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 174
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b55f95efb9293f60800000000000000
+      internalID: 8014482916050425269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 145
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5c82f4bd78d0600800000000000000
+      internalID: 436154114920465884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_36
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 144
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830614d78f50a8c30800000000000000
+      internalID: 4362305753873211448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_37
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 149
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7127ed575256d8cb0800000000000000
+      internalID: -4860117211297189353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 154
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db605b9e83527e1e0800000000000000
+      internalID: -2168723769186253123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 130
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48345f770b52bddc0800000000000000
+      internalID: -3613252836177656956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdd1ee4b0f8d99f0800000000000000
+      internalID: -460054308191085066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_41
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 123
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7f489a91f77a610800000000000000
+      internalID: 1632413138140067769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_42
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 117
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67009ca492484eb00800000000000000
+      internalID: 856955141990449270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_43
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 97
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95af0a897f8c52ce0800000000000000
+      internalID: -1430516340877100455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_44
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 118
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d94334c8b338f230800000000000000
+      internalID: 3672742364779334101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_45
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 123
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72913b1efc21c7200800000000000000
+      internalID: 179038769242118439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 123
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152557d73b4e21c70800000000000000
+      internalID: 8940459669838975569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_47
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 118
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e666e22ee4dbf42b0800000000000000
+      internalID: -5598047665298446738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_48
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 120
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4705867c89ccb2b10800000000000000
+      internalID: 1957883419575210100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_49
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 128
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1593e8b8535f4ad0800000000000000
+      internalID: -2715860409756969702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_50
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 120
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75223fbe89c327fd0800000000000000
+      internalID: -2345745828415331753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca062d22d52501a0800000000000000
+      internalID: -6844022474088772926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_52
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 91
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2815b74c8566b8ae0800000000000000
+      internalID: -1546029515632062078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_53
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 91
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a767df7b5af8910800000000000000
+      internalID: 1841872982267820696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_54
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 91
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71cb463c4baacbf0800000000000000
+      internalID: -303241681077288581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_55
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 103
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3c66eee7f1e1870800000000000000
+      internalID: 8655390163878724604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_56
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 97
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecc3582dd96f90b0800000000000000
+      internalID: -5719736603151971092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_57
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 92
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d556c0d442f4c0b0800000000000000
+      internalID: -5709172050224589358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_58
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 96
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337a93d7637235270800000000000000
+      internalID: 8237971258373416755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_59
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 95
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a46829c1c3e1320800000000000000
+      internalID: 2530526134043822641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_60
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 102
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c9450ec27e62a60800000000000000
+      internalID: 7649055197063584900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a6940864bb3d540800000000000000
+      internalID: 5031571120177375849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_62
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 87
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b810f8638fc61ae0800000000000000
+      internalID: -1578846456038549322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_63
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 83
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcef8d54b1f43e70800000000000000
+      internalID: 9094159304533994719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_64
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 71
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847c4cd3ff5e9f450800000000000000
+      internalID: 6123178052802627400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_65
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 64
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bdb4a5d8998c2c0800000000000000
+      internalID: -4411107002625041632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_66
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 75
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25392397c82a95490800000000000000
+      internalID: -7756990158956489902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_67
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 74
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4b7a955705cf440800000000000000
+      internalID: 4970936553655743664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_68
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee37b25f5c1403e0800000000000000
+      internalID: -2088513131457855762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39d6c9d04509a0d0800000000000000
+      internalID: -3411189466666706625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_70
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 65
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470344250ed503300800000000000000
+      internalID: 229786799030153332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 65
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9986bcac958bb60f0800000000000000
+      internalID: -1122600986304878439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_72
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 69
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2894b31c90a9bfe0800000000000000
+      internalID: -1172729635747358674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_73
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 65
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc69e17fda4b12420800000000000000
+      internalID: 2603560718865176271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_74
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 64
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4b418f8a204c7e0800000000000000
+      internalID: -1746267830773041935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_75
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 61
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecd6804f36fcb4d0800000000000000
+      internalID: -3117346090521273119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_76
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 66
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc1ac5bc86057860800000000000000
+      internalID: 7526929553634761910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_77
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 56
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2396d5e6f1538afd0800000000000000
+      internalID: -2330554398052357838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_78
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 42
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0817bd70c1a9d50800000000000000
+      internalID: 6744734212012736748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_79
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 39
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d944125c7f29460800000000000000
+      internalID: 7247127176431312169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_80
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 39
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ad5567506e54470800000000000000
+      internalID: 8378355592927238796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_81
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 41
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ee841dee4839220800000000000000
+      internalID: 2491481180114316831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_82
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 59
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ee4b1b356ae3d40800000000000000
+      internalID: 5566069067870432904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_83
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 39
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b96547cc1ca2fe00800000000000000
+      internalID: 1077112500497246644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_84
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 46
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7dcda07ca2ee5f0800000000000000
+      internalID: -725595455590967359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_85
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 43
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132f52da3fb00eea0800000000000000
+      internalID: -5845659175117000143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_86
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 46
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbee25805123e8b0800000000000000
+      internalID: -5124215321301947457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_87
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 32
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e35b9dacccea9d60800000000000000
+      internalID: 7897885260377707489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3109c6741c5a41b0800000000000000
+      internalID: -5671619537757732550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_89
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca9050706dc03aa0800000000000000
+      internalID: -6183216474294805810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_90
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 19
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b787c9f2ef909240800000000000000
+      internalID: 4796509400351606706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_91
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cb25eabfcfe7da0800000000000000
+      internalID: -5945036300190827514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_92
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 26
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979f6f8a1c39b4670800000000000000
+      internalID: 8524069179701524857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_93
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f73a124acbba5a20800000000000000
+      internalID: 3051958174863734775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_94
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 10
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8827a68934dfbd0800000000000000
+      internalID: -2594843488395556694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_95
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 13
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437fa5912b6e4b420800000000000000
+      internalID: 2644992533777282868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_96
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4710319ab67283980800000000000000
+      internalID: -8559047748466048652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_97
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 13
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2e4a0cadd56eac0800000000000000
+      internalID: -3826267639288372533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_98
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df50f5cb3dc38be50800000000000000
+      internalID: 6825272115376096765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_99
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 13
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc25c84eeee967c0800000000000000
+      internalID: -4077465280416764715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_100
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 15
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d389231705e1ea0800000000000000
+      internalID: -5900190014698406519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_101
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14461f5a4f9b3e1d0800000000000000
+      internalID: -3322607639662074815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_102
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 26
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84cd9684a0159df0800000000000000
+      internalID: -174214711764728694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77cbb5dddb775650800000000000000
+      internalID: 6221577602939471742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_104
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98a2f942bf656840800000000000000
+      internalID: 5216698554914089114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_105
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29307ab7db55910e0800000000000000
+      internalID: -2298711862484204654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_106
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 18
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7463f1f3780f91910800000000000000
+      internalID: 1808741189036226119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_107
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378fd0a0ea87407a0800000000000000
+      internalID: -6411867280580413325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_108
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7594d6ed3613650800000000000000
+      internalID: 6210855168088037304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_109
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb164bd9b93ad7970800000000000000
+      internalID: 8754333139439215036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_110
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1973290739b1c6ea0800000000000000
+      internalID: -5878293093562566767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_111
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294d4298f11106180800000000000000
+      internalID: -9124274017910074222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_112
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28044a9ec1003cb60800000000000000
+      internalID: 7765050306695807106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_113
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa3bc11da99c8050800000000000000
+      internalID: 5804182988380650145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muliBold_114
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b84c34d60d10eb0800000000000000
+      internalID: -4755290563819566314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

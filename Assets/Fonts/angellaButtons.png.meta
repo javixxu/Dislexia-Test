@@ -1,0 +1,2542 @@
+fileFormatVersion: 2
+guid: 326f06851ee99084f973e92b4449f61f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -527474250059772180
+    second: angellaButtons_0
+  - first:
+      213: 5616709149045945310
+    second: angellaButtons_1
+  - first:
+      213: 6285023322636458566
+    second: angellaButtons_2
+  - first:
+      213: -7284781714489206131
+    second: angellaButtons_3
+  - first:
+      213: 929516592684894502
+    second: angellaButtons_4
+  - first:
+      213: 1206744853738615195
+    second: angellaButtons_5
+  - first:
+      213: 9032719324203489638
+    second: angellaButtons_6
+  - first:
+      213: 2301231529353368891
+    second: angellaButtons_7
+  - first:
+      213: -1272007049634857696
+    second: angellaButtons_8
+  - first:
+      213: 4065359237372867260
+    second: angellaButtons_9
+  - first:
+      213: 8614925919682125934
+    second: angellaButtons_10
+  - first:
+      213: 1020910686498529489
+    second: angellaButtons_11
+  - first:
+      213: 2862874377787657219
+    second: angellaButtons_12
+  - first:
+      213: -8565224332588495919
+    second: angellaButtons_13
+  - first:
+      213: -1711502608866982455
+    second: angellaButtons_14
+  - first:
+      213: -2947944085750265644
+    second: angellaButtons_15
+  - first:
+      213: 303136639358062305
+    second: angellaButtons_16
+  - first:
+      213: 6584142780938135217
+    second: angellaButtons_17
+  - first:
+      213: 3425635498788389828
+    second: angellaButtons_18
+  - first:
+      213: -4630067209228923506
+    second: angellaButtons_19
+  - first:
+      213: -2571293054841900544
+    second: angellaButtons_20
+  - first:
+      213: 9139811408125364366
+    second: angellaButtons_21
+  - first:
+      213: -1970305803124494794
+    second: angellaButtons_22
+  - first:
+      213: 1422559958414007037
+    second: angellaButtons_23
+  - first:
+      213: -3110148050344621828
+    second: angellaButtons_24
+  - first:
+      213: -3509139263023103605
+    second: angellaButtons_25
+  - first:
+      213: -4446762679967319837
+    second: angellaButtons_26
+  - first:
+      213: 55219571017911311
+    second: angellaButtons_27
+  - first:
+      213: -9002086158202298439
+    second: angellaButtons_28
+  - first:
+      213: -5751808738650131117
+    second: angellaButtons_29
+  - first:
+      213: -6350981735768681146
+    second: angellaButtons_30
+  - first:
+      213: 698928843874191987
+    second: angellaButtons_31
+  - first:
+      213: 8709630084077852600
+    second: angellaButtons_32
+  - first:
+      213: -2871773731796078740
+    second: angellaButtons_33
+  - first:
+      213: -739585682105158871
+    second: angellaButtons_34
+  - first:
+      213: -8205509961112207095
+    second: angellaButtons_35
+  - first:
+      213: 8940772460179703047
+    second: angellaButtons_36
+  - first:
+      213: -1744903648406377352
+    second: angellaButtons_37
+  - first:
+      213: -3491161413082990717
+    second: angellaButtons_38
+  - first:
+      213: -2167834577112202318
+    second: angellaButtons_39
+  - first:
+      213: 3523214187311720794
+    second: angellaButtons_40
+  - first:
+      213: -8057631775523599622
+    second: angellaButtons_41
+  - first:
+      213: 5069398395946520247
+    second: angellaButtons_42
+  - first:
+      213: 3794766489056046134
+    second: angellaButtons_43
+  - first:
+      213: 5804408416594296432
+    second: angellaButtons_44
+  - first:
+      213: -1458113511261935918
+    second: angellaButtons_45
+  - first:
+      213: 3988503212115602671
+    second: angellaButtons_46
+  - first:
+      213: 5823026672264248941
+    second: angellaButtons_47
+  - first:
+      213: -5916377859917023200
+    second: angellaButtons_48
+  - first:
+      213: 6023091609170322973
+    second: angellaButtons_49
+  - first:
+      213: -3854184485821256299
+    second: angellaButtons_50
+  - first:
+      213: 1870795519336432556
+    second: angellaButtons_51
+  - first:
+      213: -8622522484723763709
+    second: angellaButtons_52
+  - first:
+      213: -7226181189825853888
+    second: angellaButtons_53
+  - first:
+      213: 5810625335554551144
+    second: angellaButtons_54
+  - first:
+      213: -849734174163673774
+    second: angellaButtons_55
+  - first:
+      213: -4236499868051498776
+    second: angellaButtons_56
+  - first:
+      213: -592481167090064131
+    second: angellaButtons_57
+  - first:
+      213: 6185115391151081106
+    second: angellaButtons_58
+  - first:
+      213: 4862329162542241307
+    second: angellaButtons_59
+  - first:
+      213: 4276418231615181483
+    second: angellaButtons_60
+  - first:
+      213: -5446848286028919664
+    second: angellaButtons_61
+  - first:
+      213: 554063339187617706
+    second: angellaButtons_62
+  - first:
+      213: -7158846013881692030
+    second: angellaButtons_63
+  - first:
+      213: 9020207701333681936
+    second: angellaButtons_64
+  - first:
+      213: 517585126731314300
+    second: angellaButtons_65
+  - first:
+      213: 3404721069471896756
+    second: angellaButtons_66
+  - first:
+      213: -6259099419645229139
+    second: angellaButtons_67
+  - first:
+      213: -8384503844927976713
+    second: angellaButtons_68
+  - first:
+      213: -8388697409353654672
+    second: angellaButtons_69
+  - first:
+      213: 5546576050744768274
+    second: angellaButtons_70
+  - first:
+      213: -7869661674706681134
+    second: angellaButtons_71
+  - first:
+      213: -7385866038058570569
+    second: angellaButtons_72
+  - first:
+      213: -4466578355186669477
+    second: angellaButtons_73
+  - first:
+      213: 2373625840177992466
+    second: angellaButtons_74
+  - first:
+      213: -7323242425005920721
+    second: angellaButtons_75
+  - first:
+      213: 274504849263577419
+    second: angellaButtons_76
+  - first:
+      213: 3906578406387331939
+    second: angellaButtons_77
+  - first:
+      213: 4120276388718023650
+    second: angellaButtons_78
+  - first:
+      213: 2014391849009044431
+    second: angellaButtons_79
+  - first:
+      213: 2163154205305017625
+    second: angellaButtons_80
+  - first:
+      213: 2511967693891242360
+    second: angellaButtons_81
+  - first:
+      213: 3900099691410249913
+    second: angellaButtons_82
+  - first:
+      213: -4123690931528892808
+    second: angellaButtons_83
+  - first:
+      213: -5397706970191657828
+    second: angellaButtons_84
+  - first:
+      213: 4794721087844154924
+    second: angellaButtons_85
+  - first:
+      213: 3760800496112605932
+    second: angellaButtons_86
+  - first:
+      213: 3547465672647994241
+    second: angellaButtons_87
+  - first:
+      213: -3445728281201997151
+    second: angellaButtons_88
+  - first:
+      213: -7148057565113148287
+    second: angellaButtons_89
+  - first:
+      213: -6061677062098745729
+    second: angellaButtons_90
+  - first:
+      213: -6744507684526868376
+    second: angellaButtons_91
+  - first:
+      213: 8282568950349909168
+    second: angellaButtons_92
+  - first:
+      213: 141933113562794102
+    second: angellaButtons_93
+  - first:
+      213: 6424015130878655552
+    second: angellaButtons_94
+  - first:
+      213: -4203207358909155521
+    second: angellaButtons_95
+  - first:
+      213: -3562790008768621184
+    second: angellaButtons_96
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angellaButtons_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 405
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee8509d6f80ea8f0800000000000000
+      internalID: -527474250059772180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 413
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3f193663f82fd40800000000000000
+      internalID: 5616709149045945310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 413
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a9ac69963e83750800000000000000
+      internalID: 6285023322636458566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 413
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a1c9980a147ea90800000000000000
+      internalID: -7284781714489206131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 413
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62980df8a6e46ec00800000000000000
+      internalID: 929516592684894502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 413
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91fe950d083fb010800000000000000
+      internalID: 1206744853738615195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 413
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66994f23e5aaa5d70800000000000000
+      internalID: 9032719324203489638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 413
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35590d22ed9fef10800000000000000
+      internalID: 2301231529353368891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_8
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 414
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02db8b6e35ce85ee0800000000000000
+      internalID: -1272007049634857696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 414
+        width: 16
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb276fbefae0b6830800000000000000
+      internalID: 4065359237372867260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_10
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 416
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6065f8ea7d5e8770800000000000000
+      internalID: 8614925919682125934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 354
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d025204cd00b2e00800000000000000
+      internalID: 1020910686498529489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 354
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cc9941419fab720800000000000000
+      internalID: 2862874377787657219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_13
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 355
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbc78a99d5322980800000000000000
+      internalID: -8565224332588495919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 356
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c54456f1758f38e0800000000000000
+      internalID: -1711502608866982455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 356
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8442f097cc617d0800000000000000
+      internalID: -2947944085750265644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 355
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eec75bda25f43400800000000000000
+      internalID: 303136639358062305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_17
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 356
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6254899f29f5b50800000000000000
+      internalID: 6584142780938135217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_18
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 356
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3004b165d4a8f20800000000000000
+      internalID: 3425635498788389828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 356
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dc9b38762bebfb0800000000000000
+      internalID: -4630067209228923506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 303
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00238b4079ee05cd0800000000000000
+      internalID: -2571293054841900544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_21
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 304
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8800670d0227de70800000000000000
+      internalID: 9139811408125364366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 304
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63eafd9af4118a4e0800000000000000
+      internalID: -1970305803124494794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 304
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa16f0ceb2fdb310800000000000000
+      internalID: 1422559958414007037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 304
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8c55493d886d4d0800000000000000
+      internalID: -3110148050344621828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_25
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 305
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81c128be680d4fc0800000000000000
+      internalID: -3509139263023103605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 305
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8751c07ece942c0800000000000000
+      internalID: -4446762679967319837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_27
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 305
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c0c2348ed24c000800000000000000
+      internalID: 55219571017911311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_28
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 305
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf14ee855a221380800000000000000
+      internalID: -9002086158202298439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 254
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35575c43d687d20b0800000000000000
+      internalID: -5751808738650131117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 255
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6459380a2c7ccd7a0800000000000000
+      internalID: -6350981735768681146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 255
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a4566941813b900800000000000000
+      internalID: 698928843874191987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_32
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 255
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b714867a62ded870800000000000000
+      internalID: 8709630084077852600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_33
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 254
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f2ff891096528d0800000000000000
+      internalID: -2871773731796078740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_34
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 255
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92338299db67cb5f0800000000000000
+      internalID: -739585682105158871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_35
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 255
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9014afe3a2c202e80800000000000000
+      internalID: -8205509961112207095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_36
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 255
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7054b9aae21041c70800000000000000
+      internalID: 8940772460179703047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_37
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 255
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c647d606bd8c7e0800000000000000
+      internalID: -1744903648406377352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 206
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38733a71137ec8fc0800000000000000
+      internalID: -3491161413082990717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_39
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 206
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b30b6310fd4ae1e0800000000000000
+      internalID: -2167834577112202318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_40
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 205
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59e456f2a8f4e030800000000000000
+      internalID: 3523214187311720794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 205
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa0401679a8d2090800000000000000
+      internalID: -8057631775523599622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_42
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 206
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bec3577bfe1a5640800000000000000
+      internalID: 5069398395946520247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_43
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 205
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cedb92408b9a430800000000000000
+      internalID: 3794766489056046134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_44
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 206
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ef36aa3b66d8050800000000000000
+      internalID: 5804408416594296432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_45
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 205
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6e807ac7db3cbe0800000000000000
+      internalID: -1458113511261935918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_46
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 206
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feca7a71a820a5730800000000000000
+      internalID: 3988503212115602671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_47
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 206
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e7fed18eb8fc050800000000000000
+      internalID: 5823026672264248941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 156
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028f8a6ceadc4eda0800000000000000
+      internalID: -5916377859917023200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_49
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 156
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16ab3628e1569350800000000000000
+      internalID: 6023091609170322973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_50
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 157
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d6dc761af238ac0800000000000000
+      internalID: -3854184485821256299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_51
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 157
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3c079ec9666f910800000000000000
+      internalID: 1870795519336432556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_52
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 158
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306b836fb75a65880800000000000000
+      internalID: -8622522484723763709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_53
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 158
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04602d96e7277bb90800000000000000
+      internalID: -7226181189825853888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_54
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 158
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d2d98e4fc73a050800000000000000
+      internalID: 5810625335554551144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_55
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 158
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dd67b45432534f0800000000000000
+      internalID: -849734174163673774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_56
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 157
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e81dc1e0dde435c0800000000000000
+      internalID: -4236499868051498776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_57
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 158
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4ec73848517c7f0800000000000000
+      internalID: -592481167090064131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_58
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 158
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2968c589da1f5d550800000000000000
+      internalID: 6185115391151081106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_59
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 158
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b165a529c967a7340800000000000000
+      internalID: 4862329162542241307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba25d6669b3e85b30800000000000000
+      internalID: 4276418231615181483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_61
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 109
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c0dcda758e864b0800000000000000
+      internalID: -5446848286028919664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_62
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 110
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf3853ebad60b700800000000000000
+      internalID: 554063339187617706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_63
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 110
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2805cd4ca7ba6ac90800000000000000
+      internalID: -7158846013881692030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_64
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 110
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017ac3efc173e2d70800000000000000
+      internalID: 9020207701333681936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 137
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7478d33ee4de2700800000000000000
+      internalID: 517585126731314300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_66
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 116
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4192116cfff3f20800000000000000
+      internalID: 3404721069471896756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_67
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 116
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7413e6d363329a0800000000000000
+      internalID: -6259099419645229139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_68
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 117
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7facb211d2244ab80800000000000000
+      internalID: -8384503844927976713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_69
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 117
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e5c33c62c559b80800000000000000
+      internalID: -8388697409353654672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_70
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 117
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217b458f78569fc40800000000000000
+      internalID: 5546576050744768274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 111
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d24a90f66859c290800000000000000
+      internalID: -7869661674706681134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 69
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bca5ea68f1208990800000000000000
+      internalID: -7385866038058570569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_73
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 68
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5866a1a6a68302c0800000000000000
+      internalID: -4466578355186669477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_74
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 70
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2135f792020d0f020800000000000000
+      internalID: 2373625840177992466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_75
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 70
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ea37d80dd9e5a90800000000000000
+      internalID: -7323242425005920721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_76
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 70
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b494a7db4bc3fc300800000000000000
+      internalID: 274504849263577419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_77
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 70
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363bde7dc54f63630800000000000000
+      internalID: 3906578406387331939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_78
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 69
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e397fd9b892e2930800000000000000
+      internalID: 4120276388718023650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_79
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 70
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb50a6c6be84fb10800000000000000
+      internalID: 2014391849009044431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 30
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9151991f941150e10800000000000000
+      internalID: 2163154205305017625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_81
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 30
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87905a10f4d4cd220800000000000000
+      internalID: 2511967693891242360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_82
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 30
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b85e177100ff1630800000000000000
+      internalID: 3900099691410249913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_83
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 49
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e78be22f4b5c6c0800000000000000
+      internalID: -4123690931528892808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_84
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 36
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c948310eb1e7715b0800000000000000
+      internalID: -5397706970191657828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_85
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 37
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e76060d654a8240800000000000000
+      internalID: 4794721087844154924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_86
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 40
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea97e9202c013430800000000000000
+      internalID: 3760800496112605932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_87
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 42
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b6317eb312b3130800000000000000
+      internalID: 3547465672647994241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_88
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 47
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa007e62605e20d0800000000000000
+      internalID: -3445728281201997151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_89
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 47
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c136d348ffccc90800000000000000
+      internalID: -7148057565113148287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_90
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 47
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76887204d890eba0800000000000000
+      internalID: -6061677062098745729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_91
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 47
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86832eeaef1b662a0800000000000000
+      internalID: -6744507684526868376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_92
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 49
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc4941d39891f270800000000000000
+      internalID: 8282568950349909168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_93
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 49
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67886cf2a6f38f100800000000000000
+      internalID: 141933113562794102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_94
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 50
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cb1c3c9bfa62950800000000000000
+      internalID: 6424015130878655552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_95
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 30
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3779e63d253ba5c0800000000000000
+      internalID: -4203207358909155521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellaButtons_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085190e0d5d6e8ec0800000000000000
+      internalID: -3562790008768621184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

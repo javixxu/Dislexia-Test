@@ -1,0 +1,2792 @@
+fileFormatVersion: 2
+guid: ad73423c44094f0409f218fb1da970c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4834854681842773421
+    second: angellafont_0
+  - first:
+      213: 3017548818086008019
+    second: angellafont_1
+  - first:
+      213: 6239930584973194791
+    second: angellafont_2
+  - first:
+      213: -6883463781443379438
+    second: angellafont_3
+  - first:
+      213: -5775879212419282776
+    second: angellafont_4
+  - first:
+      213: 884947755278947676
+    second: angellafont_5
+  - first:
+      213: 79047104804416566
+    second: angellafont_6
+  - first:
+      213: 2581437440136237508
+    second: angellafont_7
+  - first:
+      213: -3622543475309974191
+    second: angellafont_8
+  - first:
+      213: 1595450583754948658
+    second: angellafont_9
+  - first:
+      213: -410564966751859019
+    second: angellafont_10
+  - first:
+      213: 51177546048306594
+    second: angellafont_11
+  - first:
+      213: 7009701460523754655
+    second: angellafont_12
+  - first:
+      213: -5205594726545820201
+    second: angellafont_13
+  - first:
+      213: 3066082194563206004
+    second: angellafont_14
+  - first:
+      213: -8631571967965112192
+    second: angellafont_15
+  - first:
+      213: -5231453338124176442
+    second: angellafont_16
+  - first:
+      213: 4568392122233254833
+    second: angellafont_17
+  - first:
+      213: -3372510005013753932
+    second: angellafont_18
+  - first:
+      213: -3826716467928641117
+    second: angellafont_19
+  - first:
+      213: -2243130522035422225
+    second: angellafont_20
+  - first:
+      213: 3655397298340739342
+    second: angellafont_21
+  - first:
+      213: 8746227577185545348
+    second: angellafont_22
+  - first:
+      213: 8200065659682165530
+    second: angellafont_23
+  - first:
+      213: -8455402650159876765
+    second: angellafont_24
+  - first:
+      213: -6077574289888157983
+    second: angellafont_25
+  - first:
+      213: -3581899920154447768
+    second: angellafont_26
+  - first:
+      213: -4390073708200915574
+    second: angellafont_27
+  - first:
+      213: 4852385382711810178
+    second: angellafont_28
+  - first:
+      213: -558912858017637538
+    second: angellafont_29
+  - first:
+      213: -4999916489371760685
+    second: angellafont_30
+  - first:
+      213: -8261085710100842812
+    second: angellafont_31
+  - first:
+      213: 6424965179017337924
+    second: angellafont_32
+  - first:
+      213: -3398503604727929993
+    second: angellafont_33
+  - first:
+      213: 2593190459588002105
+    second: angellafont_34
+  - first:
+      213: 8734824946690207544
+    second: angellafont_35
+  - first:
+      213: -7675311170819162195
+    second: angellafont_36
+  - first:
+      213: 9122802083303959285
+    second: angellafont_37
+  - first:
+      213: -8960142339099860102
+    second: angellafont_38
+  - first:
+      213: -7209391982494091879
+    second: angellafont_39
+  - first:
+      213: -5767922472975645930
+    second: angellafont_40
+  - first:
+      213: -219048973463545374
+    second: angellafont_41
+  - first:
+      213: 4069234586739784502
+    second: angellafont_42
+  - first:
+      213: 3344036514113247846
+    second: angellafont_43
+  - first:
+      213: -1140766814215495836
+    second: angellafont_44
+  - first:
+      213: 9210074757885697900
+    second: angellafont_45
+  - first:
+      213: 6009830524174790516
+    second: angellafont_46
+  - first:
+      213: 6302080661008499237
+    second: angellafont_47
+  - first:
+      213: 1907888589995632861
+    second: angellafont_48
+  - first:
+      213: -506951124347236348
+    second: angellafont_49
+  - first:
+      213: 3900242666780599950
+    second: angellafont_50
+  - first:
+      213: -7531348630612860261
+    second: angellafont_51
+  - first:
+      213: 1201357544224331702
+    second: angellafont_52
+  - first:
+      213: -7231209090879767000
+    second: angellafont_53
+  - first:
+      213: 9207949197602765917
+    second: angellafont_54
+  - first:
+      213: -4814565346538933236
+    second: angellafont_55
+  - first:
+      213: 5511302891002994819
+    second: angellafont_56
+  - first:
+      213: -1006527166174275453
+    second: angellafont_57
+  - first:
+      213: 8508705450516834675
+    second: angellafont_58
+  - first:
+      213: 3041348422568972434
+    second: angellafont_59
+  - first:
+      213: 6662608702518019098
+    second: angellafont_60
+  - first:
+      213: -6865058122080994630
+    second: angellafont_61
+  - first:
+      213: -7069789319796291557
+    second: angellafont_62
+  - first:
+      213: 5279561872031439036
+    second: angellafont_63
+  - first:
+      213: -4534035514672163952
+    second: angellafont_64
+  - first:
+      213: -5762324465369787454
+    second: angellafont_65
+  - first:
+      213: -1100876812213580332
+    second: angellafont_66
+  - first:
+      213: -7348229026812728697
+    second: angellafont_67
+  - first:
+      213: -5039135427213231031
+    second: angellafont_68
+  - first:
+      213: -3795097057354661829
+    second: angellafont_69
+  - first:
+      213: 5039509949250193333
+    second: angellafont_70
+  - first:
+      213: 7162110723797389153
+    second: angellafont_71
+  - first:
+      213: -5199809781608972940
+    second: angellafont_72
+  - first:
+      213: -7363451121226518676
+    second: angellafont_73
+  - first:
+      213: -1670505034542780984
+    second: angellafont_74
+  - first:
+      213: 8689959337328111004
+    second: angellafont_75
+  - first:
+      213: -5656259464267052661
+    second: angellafont_76
+  - first:
+      213: -7561258236140787469
+    second: angellafont_77
+  - first:
+      213: 4741955742227201292
+    second: angellafont_78
+  - first:
+      213: 7482804075878491784
+    second: angellafont_79
+  - first:
+      213: -7476493302819053592
+    second: angellafont_80
+  - first:
+      213: 4387582891810138539
+    second: angellafont_81
+  - first:
+      213: -8120724313515284239
+    second: angellafont_82
+  - first:
+      213: -6920813837037458462
+    second: angellafont_83
+  - first:
+      213: 4864033382595070012
+    second: angellafont_84
+  - first:
+      213: -4875419217837080665
+    second: angellafont_85
+  - first:
+      213: -4599245217610593954
+    second: angellafont_86
+  - first:
+      213: -834724875252778249
+    second: angellafont_87
+  - first:
+      213: 7009392999362917718
+    second: angellafont_88
+  - first:
+      213: -8622673193355559399
+    second: angellafont_89
+  - first:
+      213: -3138698088078711427
+    second: angellafont_90
+  - first:
+      213: -5144525741220903245
+    second: angellafont_91
+  - first:
+      213: -8373934550750445573
+    second: angellafont_92
+  - first:
+      213: 367150389070692
+    second: angellafont_93
+  - first:
+      213: -3273148739100400524
+    second: angellafont_94
+  - first:
+      213: -8253569260152450818
+    second: angellafont_95
+  - first:
+      213: -6842494267598829137
+    second: angellafont_96
+  - first:
+      213: -3086670569232518014
+    second: angellafont_97
+  - first:
+      213: 2336071064461824757
+    second: angellafont_98
+  - first:
+      213: -6403365693919313055
+    second: angellafont_99
+  - first:
+      213: -511944604307828374
+    second: angellafont_100
+  - first:
+      213: -5656086933079788095
+    second: angellafont_101
+  - first:
+      213: 8770984459046113749
+    second: angellafont_102
+  - first:
+      213: -7948169845265390181
+    second: angellafont_103
+  - first:
+      213: -8648098094585156339
+    second: angellafont_104
+  - first:
+      213: -2115854436431347199
+    second: angellafont_105
+  - first:
+      213: 8382996538502257212
+    second: angellafont_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angellafont_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 471
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad6fdb87bad81340800000000000000
+      internalID: 4834854681842773421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 473
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d49a6299ac70e920800000000000000
+      internalID: 3017548818086008019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 473
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7263c647ecfa89650800000000000000
+      internalID: 6239930584973194791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 473
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fdcc239260970a0800000000000000
+      internalID: -6883463781443379438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 473
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a88f2e4574f7dfa0800000000000000
+      internalID: -5775879212419282776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 473
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c555e267b47f74c00800000000000000
+      internalID: 884947755278947676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_6
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 481
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ce36a4ce4d81100800000000000000
+      internalID: 79047104804416566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_7
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 482
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1d63dbcab13d320800000000000000
+      internalID: 2581437440136237508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_8
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 482
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d6dbaf6e32abdc0800000000000000
+      internalID: -3622543475309974191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_9
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 481
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23047655add242610800000000000000
+      internalID: 1595450583754948658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_10
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 481
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be098786516d4af0800000000000000
+      internalID: -410564966751859019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 410
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad7facf4b1d5b000800000000000000
+      internalID: 51177546048306594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 410
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f942e00e656774160800000000000000
+      internalID: 7009701460523754655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 410
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5f6973d2302c7b0800000000000000
+      internalID: -5205594726545820201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 410
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b071bd289ec8a20800000000000000
+      internalID: 3066082194563206004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 411
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0885834f60f763880800000000000000
+      internalID: -8631571967965112192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 411
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3b31a08e42667b0800000000000000
+      internalID: -5231453338124176442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_17
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 411
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3f7684e60366f30800000000000000
+      internalID: 4568392122233254833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 412
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf44bdc4007231d0800000000000000
+      internalID: -3372510005013753932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_19
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 412
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1d9f0b5a5c4eac0800000000000000
+      internalID: -3826716467928641117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 413
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febfd31ccacced0e0800000000000000
+      internalID: -2243130522035422225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_21
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 413
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09b588c9749ab230800000000000000
+      internalID: 3655397298340739342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_22
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 414
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48caed654a7d06970800000000000000
+      internalID: 8746227577185545348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 353
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a131c3c854c7cc170800000000000000
+      internalID: 8200065659682165530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 354
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365f25c961068aa80800000000000000
+      internalID: -8455402650159876765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_25
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 355
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee5b2b326e18aba0800000000000000
+      internalID: -6077574289888157983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 355
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860b13610098a4ec0800000000000000
+      internalID: -3581899920154447768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 354
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d07e4d8335313c0800000000000000
+      internalID: -4390073708200915574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_28
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 355
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288d5d9ebc2275340800000000000000
+      internalID: 4852385382711810178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_29
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 355
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bd57587b75e38f0800000000000000
+      internalID: -558912858017637538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_30
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 355
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7c060917abc9ab0800000000000000
+      internalID: -4999916489371760685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_31
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 354
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c63266d05aba5d80800000000000000
+      internalID: -8261085710100842812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_32
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 355
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c15951acf0a2950800000000000000
+      internalID: 6424965179017337924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 298
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773ae404af616d0d0800000000000000
+      internalID: -3398503604727929993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_34
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 298
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931cca2dbfcdcf320800000000000000
+      internalID: 2593190459588002105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 298
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fa0ba8205583970800000000000000
+      internalID: 8734824946690207544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 299
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf7cbad721db7590800000000000000
+      internalID: -7675311170819162195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_37
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 299
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faa68bf824ba9e70800000000000000
+      internalID: 9122802083303959285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_38
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 299
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73e305f30e27a380800000000000000
+      internalID: -8960142339099860102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_39
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 299
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995f3ec503813fb90800000000000000
+      internalID: -7209391982494091879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_40
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 298
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6134b42121934ffa0800000000000000
+      internalID: -5767922472975645930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_41
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 299
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e99a448e18c5fcf0800000000000000
+      internalID: -219048973463545374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_42
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 299
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bbb520c43d87830800000000000000
+      internalID: 4069234586739784502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 243
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ad7abfd77686e20800000000000000
+      internalID: 3344036514113247846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_44
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 243
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f912360ae2b20f0800000000000000
+      internalID: -1140766814215495836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_45
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 243
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f919af132c0df70800000000000000
+      internalID: 9210074757885697900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_46
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 243
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fecb13505376350800000000000000
+      internalID: 6009830524174790516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_47
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 243
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5224549a8fc757750800000000000000
+      internalID: 6302080661008499237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_48
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 243
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8e5bd609e2a7a10800000000000000
+      internalID: 1907888589995632861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_49
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 243
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4005cca63a2f6f8f0800000000000000
+      internalID: -506951124347236348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_50
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 243
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86a7438a02702630800000000000000
+      internalID: 3900242666780599950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_51
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 242
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9222b0c2564b7790800000000000000
+      internalID: -7531348630612860261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_52
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 242
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b71ab742541ca010800000000000000
+      internalID: 1201357544224331702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_53
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 243
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e3989f4a595ab90800000000000000
+      internalID: -7231209090879767000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 188
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cb4f8620539cf70800000000000000
+      internalID: 9207949197602765917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_55
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 188
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0434a3735a3f2db0800000000000000
+      internalID: -4814565346538933236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_56
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 187
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38021db77c41c7c40800000000000000
+      internalID: 5511302891002994819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_57
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 188
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388d66b00e81802f0800000000000000
+      internalID: -1006527166174275453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_58
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 188
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3796c74b68ef41670800000000000000
+      internalID: 8508705450516834675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_59
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 187
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2901b6dc64a053a20800000000000000
+      internalID: 3041348422568972434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_60
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 188
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14430f9057567c50800000000000000
+      internalID: 6662608702518019098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_61
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 188
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abab3f6b20a6ab0a0800000000000000
+      internalID: -6865058122080994630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_62
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 188
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1801bc221013ed90800000000000000
+      internalID: -7069789319796291557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_63
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 188
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb85120ec85c44940800000000000000
+      internalID: 5279561872031439036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_64
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 189
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093d5f4c8bed311c0800000000000000
+      internalID: -4534035514672163952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_65
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 189
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c35719cd6c1800b0800000000000000
+      internalID: -5762324465369787454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 189
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd8b8a3f56e8b0f0800000000000000
+      internalID: -1100876812213580332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 134
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78aec98f1a8d50a90800000000000000
+      internalID: -7348229026812728697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 133
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c7ed50705611ab0800000000000000
+      internalID: -5039135427213231031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_69
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 134
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30ce38655b155bc0800000000000000
+      internalID: -3795097057354661829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_70
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 134
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7ca1f299fefe540800000000000000
+      internalID: 5039509949250193333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_71
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 134
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f85fdb1cde46360800000000000000
+      internalID: 7162110723797389153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_72
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 134
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d789bad8096d7b0800000000000000
+      internalID: -5199809781608972940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_73
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 134
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f675ee734cfc990800000000000000
+      internalID: -7363451121226518676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_74
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 135
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd6394958c21d8e0800000000000000
+      internalID: -1670505034542780984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_75
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 135
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9de706d9ffe89870800000000000000
+      internalID: 8689959337328111004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_76
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 135
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89cbe24cfde081b0800000000000000
+      internalID: -5656259464267052661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_77
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 135
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8e4db02b3011790800000000000000
+      internalID: -7561258236140787469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_78
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 136
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d7314af9fcec140800000000000000
+      internalID: 4741955742227201292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 87
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886259259a248d760800000000000000
+      internalID: 7482804075878491784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_80
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 87
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef12e704f82e3890800000000000000
+      internalID: -7476493302819053592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_81
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 88
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9ace8c463d3ec30800000000000000
+      internalID: 4387582891810138539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_82
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 88
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f82b0623446d4f80800000000000000
+      internalID: -8120724313515284239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_83
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 88
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb26c6bb7454ff90800000000000000
+      internalID: -6920813837037458462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_84
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 88
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3888393794808340800000000000000
+      internalID: 4864033382595070012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_85
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 87
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af35bd6d08075cb0800000000000000
+      internalID: -4875419217837080665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_86
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 89
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e590869a7d23c20c0800000000000000
+      internalID: -4599245217610593954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_87
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 89
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa306506267a64f0800000000000000
+      internalID: -834724875252778249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_88
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 89
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655f22aabcd564160800000000000000
+      internalID: 7009392999362917718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_89
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 42
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e32cf5a6c165880800000000000000
+      internalID: -8622673193355559399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_90
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 41
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75eedae7ba1174d0800000000000000
+      internalID: -3138698088078711427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 42
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6cca06819fa98b0800000000000000
+      internalID: -5144525741220903245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_92
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 42
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff3622a4eec9cb80800000000000000
+      internalID: -8373934550750445573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_93
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 42
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b058cdbed410000800000000000000
+      internalID: 367150389070692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_94
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 42
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47427ec40907392d0800000000000000
+      internalID: -3273148739100400524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_95
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 42
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef09787bc7e657d80800000000000000
+      internalID: -8253569260152450818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_96
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 48
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9002a77b39a01a0800000000000000
+      internalID: -6842494267598829137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_97
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 49
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2843e3e9871f925d0800000000000000
+      internalID: -3086670569232518014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_98
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 52
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2d05f81446b6020800000000000000
+      internalID: 2336071064461824757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_99
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 54
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163440fe3dca227a0800000000000000
+      internalID: -6403365693919313055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_100
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 59
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61dd83481535e8f0800000000000000
+      internalID: -511944604307828374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_101
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 59
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5fc0fc6ea8181b0800000000000000
+      internalID: -5656086933079788095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_102
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 14
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d15ae315ebc8b970800000000000000
+      internalID: 8770984459046113749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_103
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 16
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b952c7e03ad62b190800000000000000
+      internalID: -7948169845265390181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_104
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 16
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0de4814a98cbf780800000000000000
+      internalID: -8648098094585156339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_105
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 17
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1024310b999f2a2e0800000000000000
+      internalID: -2115854436431347199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angellafont_106
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 17
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a91cecfe2665470800000000000000
+      internalID: 8382996538502257212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
