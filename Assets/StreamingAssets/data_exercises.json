@@ -1,0 +1,92 @@
+{
+        "totalTime": 640,
+        "packages": [
+          {
+            "type_id": 8,
+            "typeId": 8,
+            "type": "insert_target",
+            "subtype_id": 41,
+            "subtypeId": 41,
+            "subtype": "insert_target_letter_arbitrary",
+            "time": 40,
+            "level": 4,
+            "exercises": [
+              {
+                "id": 1546,
+                "distractors": "r n m t",
+                "target": "s",
+                "display": "vetir",
+                "word": "vestir"
+              },
+              {
+                "id": 1520,
+                "distractors": "a u o i",
+                "target": "e",
+                "display": "nuva",
+                "word": "nueva"
+              },
+              {
+                "id": 1547,
+                "distractors": "b h j g",
+                "target": "v",
+                "display": "ía",
+                "word": "vía"
+              }
+            ]
+          },
+          {
+            "type_id": 10,
+            "typeId": 10,
+            "type": "order_chuncks",
+            "subtype_id": 48,
+            "subtypeId": 48,
+            "subtype": "order_chuncks_syllable",
+            "time": 60,
+            "level": 4,
+            "exercises": [
+              {
+                "id": 2028,
+                "target": "diferencia",
+                "chunks": "cia di fe ren",
+                "min_movements": 1
+              },
+              {
+                "id": 1920,
+                "target": "inconsistencia",
+                "chunks": "sis cia ten in con",
+                "min_movements": 3
+              },
+              {
+                "id": 1910,
+                "target": "encima",
+                "chunks": "ma ci en",
+                "min_movements": 2
+              }
+            ]
+          },
+          {
+            "type_id": 6,
+            "typeId": 6,
+            "type": "cut_sentence",
+            "subtype_id": 37,
+            "subtypeId": 37,
+            "subtype": "cut_sentence",
+            "time": 40,
+            "level": 4,
+            "exercises": [
+              {
+                "id": 2093,
+                "sentence": "El amor es más contagioso que la gripe."
+              },
+              {
+                "id": 2141,
+                "sentence": "Practicar todos los días un poco ayuda mucho."
+              },
+              {
+                "id": 1908,
+                "sentence": "A través de tus ojos veo el mundo."
+              }    
+            ]
+          }
+        ]
+      }

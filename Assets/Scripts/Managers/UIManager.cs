@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class UIManager : MonoBehaviour
@@ -7,15 +8,47 @@ public class UIManager : MonoBehaviour
     GameManager gameManager;
     public Canvas mainCanvas;
 
+    [SerializeField]
+    CountdownWidget countdownWidget;
+
+    [SerializeField]
+    TimerWidget timerWidget;
+
     private void Awake()
     {
-        Debug.Log("Initializasing UI MANAGER");
+        if (Instance != null && Instance != this)
+        {
+            Debug.LogWarning("Multiple UIManager instances detected! Destroying duplicate.");
+            Destroy(gameObject);
+            return;
+        }
+
         Instance = this;
+        Debug.Log("Initializing UI MANAGER");
     }
 
     private void Start()
     {
         gameManager = GameManager.Instance;
+        gameManager.timeSubsystem.OnTimeOver += HandleTimeOver;
     }
+
+    private void HandleTimeOver(){
+        
+    }
+
     public Canvas GetMainCanvas() { return mainCanvas; }
+
+    public void ShowCountdown(int seconds, Action onCountdownFinished)
+    {
+        if (countdownWidget != null)
+        {
+            countdownWidget.StartCountdown(seconds, onCountdownFinished);
+        }
+        else
+        {
+            Debug.LogWarning("CountdownWidget is not assigned in UIManager.");
+            onCountdownFinished?.Invoke();
+        }
+    }
 }

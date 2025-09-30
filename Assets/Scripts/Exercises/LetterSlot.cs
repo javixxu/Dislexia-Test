@@ -4,19 +4,20 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-public class LetterSlot : MonoBehaviour, IDropHandler, IPointerEnterHandler
+public class LetterSlot : MonoBehaviour, IDropHandler
 {
     bool bCanPlace = true; 
-    private string correctLetter;  // letra que debe ir aquí
-
+    string correctLetter;
+    int index;
     DragLetter currentDragLetter = null;
 
-    public void Init(string correctLetter, bool bCanPlace = true)
+    public void Init(string correctLetter,int index = -1, bool bCanPlace = true)
     {
         this.correctLetter = correctLetter;
         this.bCanPlace = bCanPlace;
+        this.index = index;
 
-        if (!bCanPlace)
+        if (!bCanPlace && correctLetter!="")
         {
             GameObject obj = new GameObject("Text");
             obj.transform.SetParent(transform);
@@ -29,13 +30,13 @@ public class LetterSlot : MonoBehaviour, IDropHandler, IPointerEnterHandler
 
     public void OnDrop(PointerEventData eventData)
     {
-        if (transform.childCount < 0 || !bCanPlace) return;
+        if (transform.childCount > 0 || !bCanPlace) return;
 
         // Comprobar si lo que se dropea tiene un DragLetter
         DragLetter dragLetter = eventData.pointerDrag?.GetComponent<DragLetter>();
         if (dragLetter == null) return;
 
-        if (dragLetter.letter != correctLetter)
+        if (dragLetter.GetCurrentLetter() != correctLetter)
         {
             Debug.Log($"Slot: Incorrecto");
             return;
@@ -45,13 +46,21 @@ public class LetterSlot : MonoBehaviour, IDropHandler, IPointerEnterHandler
         dragLetter.SetParentAfterDrag((RectTransform)transform);
         currentDragLetter = dragLetter;
 
+
+        GameManager.Instance.currentExercise.CheckSolution(index);
+
         Debug.Log($"Slot: ¡Correcto!");
     }
 
-    public void OnPointerEnter(PointerEventData eventData)
+    void Update()
     {
-        if (!bCanPlace) return;
-
-        Debug.Log("ObjectEntrando");
+        if (Input.GetMouseButtonDown(0))
+        {
+            Vector2 mousePos = Input.mousePosition;
+            if (RectTransformUtility.RectangleContainsScreenPoint((RectTransform)transform, mousePos))
+            {
+                Debug.Log($"Mouse clicked on slot: {correctLetter}");
+            }
+        }
     }
 }

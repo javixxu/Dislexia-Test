@@ -1,8 +1,6 @@
-using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class InsertLetterExercise : ExerciseBase
 {
@@ -22,28 +20,58 @@ public class InsertLetterExercise : ExerciseBase
     int missingIndex;
     List<string> options;
 
-    private void Start()
+    public override void Show(Exercise data)
     {
-        targetWord = "EXAMPLE";
+        if (data == null)
+        {
+            Debug.LogError("Exercise data is null!");
+            return;
+        }
 
-        missingIndex = 2;
-
-        options = new List<string> { "A", "X", "I", "O", "U" };
-
-
-        //TODO:: GENERATE OPTIONS
-        SetupUI();
-    }
-
-    public override void Show(object dataObj)
-    {
-        //TODO : PROCCESS DTAOBJ TO GET THE EXERCISE 
-        /*
-        var data = dataObj as PackageRunner.ExerciseData;
+        // keep correct Word
         targetWord = data.word;
-        missingIndex = data.missingIndex;
-        options = data.options;
-        SetupUI();*/
+
+        // Identify the index of the missing letter by comparing display with word
+        missingIndex = -1;
+        for (int i = 0; i < targetWord.Length && i < data.display.Length; i++)
+        {
+            if (targetWord[i] != data.display[i])
+            {
+                missingIndex = i;
+                break;
+            }
+        }
+
+        if (missingIndex == -1)
+        {
+            Debug.LogWarning("No missing letter found in display word.");
+            missingIndex = 0; // fallback
+        }
+
+        // load options (distractors + target)
+        options = new List<string>();
+
+        // Add distractors
+        if (!string.IsNullOrEmpty(data.distractors))
+        {
+            var distractors = data.distractors.Split(' ');
+            options.AddRange(distractors);
+        }
+
+       
+        options.Add(data.target);
+
+        //Mix the options
+        for (int i = 0; i < options.Count; i++)
+        {
+            int rnd = UnityEngine.Random.Range(0, options.Count);
+            var temp = options[i];
+            options[i] = options[rnd];
+            options[rnd] = temp;
+        }
+
+        // Generate ui
+        SetupUI();
     }
 
     void SetupUI()
@@ -61,10 +89,9 @@ public class InsertLetterExercise : ExerciseBase
             if (i == missingIndex)
             {
                 slot.name = "MissingSlot";
-                text = " ";
             }
 
-                letterSlot?.Init(text, i == missingIndex);
+            letterSlot?.Init(text, i, i == missingIndex);
         }
 
        
@@ -73,7 +100,7 @@ public class InsertLetterExercise : ExerciseBase
         {
             GameObject slot = Instantiate(letterSlotPrefab, optionsParent);
             LetterSlot letterSlot = slot.GetComponent<LetterSlot>();
-            letterSlot.Init(opt, false);
+            letterSlot.Init("", -1,false);
 
             GameObject b = Instantiate(DragLetterPrefab, slot.transform);
             b.GetComponentInChildren<TextMeshProUGUI>().text = opt;
@@ -82,36 +109,17 @@ public class InsertLetterExercise : ExerciseBase
         }
     }
 
-    void OnLetterDropped(string letter, Vector2 dropPosition)
+    public override void CheckSolution(int index)
     {
-        // simple hit detection: if player drops near the index area -> accept.
-        // For prototype: check if letter equals expected letter
-        if (letter == targetWord[missingIndex].ToString())
-        {
-            // success
-            // show filled word
-            //char[] arr = targetWord.ToCharArray();
-            //arr[missingIndex] = letter[0];
-            //wordDisplay.text = new string(arr);
-            // small delay then finish
-            StartCoroutine(EndAfter(0.4f));
-        }
-        else
-        {
-            // mark error (shake), but allow next attempts or finish as wrong
-            StartCoroutine(EndAfter(0.5f));
-        }
+        GameManager.Instance.UpdateAnswersCounter(index == missingIndex);
+
+        // End Exercise
+        StartCoroutine(EndAfter(0.4f));
     }
+
     System.Collections.IEnumerator EndAfter(float s)
     {
         yield return new WaitForSeconds(s);
         Finish();
     }
-
-    public override void ForceStop()
-    {
-        // cleanup and finish
-        Finish();
-    }
-
 }

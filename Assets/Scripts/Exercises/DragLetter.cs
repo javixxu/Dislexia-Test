@@ -21,8 +21,7 @@ public class DragLetter : MonoBehaviour, IPointerDownHandler, IBeginDragHandler,
 
     RectTransform parentAfterDrag; // Set Parent After Drag
 
-
-    public string letter;//TODO TEMP PONER EN PRIV
+    string letter;
 
     UIManager uIManager;
 
@@ -37,13 +36,12 @@ public class DragLetter : MonoBehaviour, IPointerDownHandler, IBeginDragHandler,
     private void Start()
     {
         uIManager = UIManager.Instance;
-
+        label.raycastTarget = false;
     }
 
     public void Init(string letter)
     {
         this.letter = letter;
-
         if (label != null) label.text = letter;
     }
     public void OnPointerDown(PointerEventData eventData) {
@@ -55,31 +53,32 @@ public class DragLetter : MonoBehaviour, IPointerDownHandler, IBeginDragHandler,
 
         parentAfterDrag = (RectTransform)transform.parent;
 
-        transform.SetParent(uIManager.GetMainCanvas().transform);
+        transform.SetParent(transform.root);
         transform.SetAsLastSibling();
 
         background.color = ColorOnDrag;
         background.raycastTarget = false;
-        GetComponentInParent<LetterSlot>().GetComponent<Image>().raycastTarget = false;
+      
     }
     public void OnDrag(PointerEventData eventData)
     {
-        rect.anchoredPosition += eventData.delta / canvas.scaleFactor;
-
+        //rect.anchoredPosition += eventData.delta / canvas.scaleFactor;
+        transform.position = Input.mousePosition;
     }
     public void OnEndDrag(PointerEventData eventData)
     {
         Debug.Log("End drag " + letter);
         background.color = ColorOnDragEnd;
+
         background.raycastTarget = true;
         rect.SetParent(parentAfterDrag);
-        transform.localPosition = new Vector3();
+        transform.localPosition = Vector3.zero;
     }
 
     public void SetParentAfterDrag(RectTransform NewParent)
     {
         parentAfterDrag = NewParent;
-        GetComponentInParent<LetterSlot>().GetComponent<Image>().raycastTarget = true;
     }
 
+    public string GetCurrentLetter() { return letter; }
 }
