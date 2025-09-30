@@ -108,7 +108,7 @@ MonoBehaviour:
   m_lineSpacingMax: 0
   m_paragraphSpacing: 0
   m_charWidthMaxAdj: 0
-  m_TextWrappingMode: 1
+  m_TextWrappingMode: 0
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
   m_linkedTextComponent: {fileID: 0}
@@ -247,6 +247,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ColorOnDrag: {r: 0.2905661, g: 0.2905661, b: 0.2905661, a: 0.61960787}
-  ColorOnDragEnd: {r: 0.2901961, g: 0.2901961, b: 0.2901961, a: 0.09803922}
+  ColorOnDragEnd: {r: 1, g: 1, b: 1, a: 0}
   label: {fileID: 5463519722401901935}
   placeholderPrefab: {fileID: 7042051531325898712, guid: fb4e45fa83cc0894182476ce7b4ce930, type: 3}

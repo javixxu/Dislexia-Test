@@ -77,35 +77,29 @@ public class DragLetter : MonoBehaviour, IPointerDownHandler, IBeginDragHandler,
     {
         if (!GameManager.Instance.bCanTakeObject) return;
 
+        // Mover el objeto arrastrado
         rect.anchoredPosition += eventData.delta / uIManager.GetMainCanvas().scaleFactor;
-        //transform.position = Input.mousePosition;
 
         if (!CheckOrderReparent || placeholderInstance == null) return;
 
-        // Reordenar placeholder según posición X
-        int newIndex = parentAfterDrag.childCount;
+        // Obtenemos el objeto bajo el puntero
+        GameObject hoveredObject = eventData.pointerCurrentRaycast.gameObject;
 
-        for (int i = 0; i < parentAfterDrag.childCount; i++)
+        if (hoveredObject != null && hoveredObject.transform.parent == parentAfterDrag)
         {
-            Transform sibling = parentAfterDrag.GetChild(i);
-            if (sibling == transform || sibling == placeholderInstance.transform) continue;
+            int newIndex = hoveredObject.transform.GetSiblingIndex();
 
-            RectTransform siblingRect = sibling as RectTransform;
+            // Opcional: ajustar si quieres colocar el placeholder antes o después del hoveredObject
+            if (rect.anchoredPosition.x > hoveredObject.transform.position.x)
+                newIndex++;
 
-            // Calcular centro real del drag y del slot vecino
-            float dragCenterX = rect.anchoredPosition.x;
-            float siblingCenterX = sibling.position.x;
-
-            //Debug.Log($"DragCenterX: {dragCenterX}, SiblingCenterX: {siblingCenterX}");
-
-            if (dragCenterX <= siblingCenterX)
-            {
-                newIndex = i;
-                break;
-            }
+            placeholderInstance.transform.SetSiblingIndex(newIndex);
         }
-
-        placeholderInstance.transform.SetSiblingIndex(newIndex);
+        else
+        {
+            // Si no hay objeto debajo, colocar el placeholder al final
+            placeholderInstance.transform.SetSiblingIndex(parentAfterDrag.childCount - 1);
+        }
     }
     public void OnEndDrag(PointerEventData eventData)
     {
@@ -130,7 +124,6 @@ public class DragLetter : MonoBehaviour, IPointerDownHandler, IBeginDragHandler,
             {
                 var gameManager = GameManager.Instance;
                 gameManager.currentExercise?.CheckSolution(-1);
-              
             }
         }
         else
