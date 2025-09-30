@@ -66,7 +66,7 @@ public class CutSentenceExercise : ExerciseBase, IPointerDownHandler
         int globalIndex = allSegments.IndexOf(clickedObj);
         if (globalIndex < 0) return;
 
-        AudioManager.Instance.PlaySFX("fx_click");
+        AudioManager.Instance.PlaySFX("fx_click", 0.8f);
 
         RectTransform tmpRect = clickedObj.GetComponent<RectTransform>();
         Vector2 localPoint;

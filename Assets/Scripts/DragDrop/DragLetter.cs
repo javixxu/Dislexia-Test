@@ -50,12 +50,13 @@ public class DragLetter : MonoBehaviour, IPointerDownHandler, IBeginDragHandler,
         this.CheckOrderReparent = checkOrderReparent;
     }
     public void OnPointerDown(PointerEventData eventData) {
-        AudioManager.Instance.PlaySFX("fx_click");
+        AudioManager.Instance.PlaySFX("fx_click", 0.8f);
     }
 
     public void OnBeginDrag(PointerEventData eventData)
     {
         if (!GameManager.Instance.bCanTakeObject) return;
+       
 
         Debug.Log("Begin drag " + letter);
 
@@ -75,7 +76,7 @@ public class DragLetter : MonoBehaviour, IPointerDownHandler, IBeginDragHandler,
     }
     public void OnDrag(PointerEventData eventData)
     {
-        if (!GameManager.Instance.bCanTakeObject) return;
+        if (!GameManager.Instance.bCanTakeObject || !parentAfterDrag) { return; }
 
         // Mover el objeto arrastrado
         rect.anchoredPosition += eventData.delta / uIManager.GetMainCanvas().scaleFactor;
@@ -103,7 +104,9 @@ public class DragLetter : MonoBehaviour, IPointerDownHandler, IBeginDragHandler,
     }
     public void OnEndDrag(PointerEventData eventData)
     {
-       // if (!GameManager.Instance.bCanTakeObject) return;
+        if (!parentAfterDrag) { Destroy(gameObject); return; } // Safety check
+
+        //if (!GameManager.Instance.bCanTakeObject) return; 
 
         Debug.Log("End drag " + letter);
         background.raycastTarget = true;
@@ -161,4 +164,5 @@ public class DragLetter : MonoBehaviour, IPointerDownHandler, IBeginDragHandler,
             le.preferredHeight = rect.rect.height;
         }
     }
+
 }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.SceneManagement;
 
 
@@ -76,11 +77,14 @@ public class GameManager : MonoBehaviour
 
     private void OnTimeOver()
     {
+        bCanTakeObject = false;
+        timeSubsystem.Pause();
+
         DestroyLastExercise();
 
-        exercisesSystem.UpdateNextPackage();
-
-        OnExerciseFinished();
+        if (exercisesSystem.UpdateNextPackage())
+            OnExerciseFinished();
+        else LoadScene("GameOver");
     }
 
     void HandlePackageChanged(Package newPackage)
@@ -91,7 +95,8 @@ public class GameManager : MonoBehaviour
 
         timeSubsystem.Pause();
 
-        onAnswersCounterChanged?.Invoke(answersCounter);
+        if(answersCounter.errors > 0 || answersCounter.success > 0) 
+            onAnswersCounterChanged?.Invoke(answersCounter);
 
 
         Debug.Log("STARTING COUNTDOWN");
@@ -129,10 +134,13 @@ public class GameManager : MonoBehaviour
             Debug.Log("No quedan ejercicios en el paquete actual.");
 
             if (!exercisesSystem.UpdateNextPackage()) { //FINAL GAME
-                LoadScene("GameOver");
+                DestroyLastExercise();
+
+               // LoadScene("GameOver");
                 return;
             }
         }
+        if (exercisesSystem.GetCurrentPackage()==null) return;
 
         Exercise nextExercise = exercisesSystem.GetNextExercise();
         if (nextExercise == null)
@@ -187,12 +195,12 @@ public class GameManager : MonoBehaviour
         if (bRight)
         {
             answersCounter.success++;
-            AudioManager.Instance.PlaySFX("fx_correct");
+            AudioManager.Instance.PlaySFX("fx_correct",0.8f);
         }
         else
         {
             answersCounter.errors++;
-            AudioManager.Instance.PlaySFX("fx_error");
+            AudioManager.Instance.PlaySFX("fx_error",0.8f);
         }
         Debug.Log($"Aciertos: {answersCounter.success} - Errores: {answersCounter.errors}");
     }
@@ -213,11 +221,12 @@ public class GameManager : MonoBehaviour
 
         if (scene.name == "MainMenu")
         {
-            ResetGame(); // Limpia datos para empezar de cero
+            ResetGame();
+            AudioManager.Instance.PlayBGM("ms_mainMenuMusic");
         }
         else if (scene.name == "GameLevel")
         {
-            AudioManager.Instance.PlayBGM("ch_landscape_1");
+            AudioManager.Instance.PlayBGM("ms_landscape_1");
             //For Next Exercise
             UIManager.Instance.GetScoreWidget()?.gameObject.SetActive(true);
 
@@ -225,7 +234,7 @@ public class GameManager : MonoBehaviour
         }
         else if (scene.name == "GameOver")
         {
-            // Aquí puedes mostrar puntuaciones finales
+            AudioManager.Instance.PlayBGM("ms_mainMenuMusic");
         }
     }
 
@@ -251,7 +260,7 @@ public class GameManager : MonoBehaviour
         ExerciseEntry entry = TypeOfExercisesList.Find(e => e.typeId == exercisesSystem.GetCurrentPackageTypeId());
         if (entry != null && !string.IsNullOrEmpty(entry.soundInstruction))
         {
-            AudioManager.Instance.PlaySFX(entry.soundInstruction);
+            AudioManager.Instance.PlaySFX(entry.soundInstruction,0.75f);
         }
     }
 

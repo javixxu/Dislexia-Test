@@ -8,7 +8,7 @@
             "subtype_id": 41,
             "subtypeId": 41,
             "subtype": "insert_target_letter_arbitrary",
-            "time": 40,
+            "time": 5,
             "level": 4,
             "exercises": [
               {
@@ -34,7 +34,7 @@
             "subtype_id": 48,
             "subtypeId": 48,
             "subtype": "order_chuncks_syllable",
-            "time": 60,
+            "time": 5,
             "level": 4,
             "exercises": [
               {
@@ -166,7 +166,7 @@
             "subtype_id": 37,
             "subtypeId": 37,
             "subtype": "cut_sentence",
-            "time": 40,
+            "time": 5,
             "level": 4,
             "exercises": [
               {

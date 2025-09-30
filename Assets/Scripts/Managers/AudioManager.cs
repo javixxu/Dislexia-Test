@@ -58,7 +58,7 @@ public class AudioManager : MonoBehaviour
 
         bgmSource.clip = bgmDict[name];
         bgmSource.loop = loop;
-
+        bgmSource.volume = 0.6f;
         bgmSource.Stop();
         bgmSource.Play();
     }
