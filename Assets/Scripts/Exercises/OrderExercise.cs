@@ -67,6 +67,8 @@ public class OrderExercise : ExerciseBase
             Debug.Log("¡CORRECTO! " + result);
             GameManager.Instance.UpdateAnswersCounter(true);
 
+            GameManager.Instance.SetCanTakeObject(false);
+
             // Finalizar ejercicio
             StartCoroutine(EndAfter(0.7f));
         }
@@ -74,6 +76,8 @@ public class OrderExercise : ExerciseBase
         {
             Debug.Log("INCORRECTO: " + result);
             GameManager.Instance.UpdateAnswersCounter(false);
+
+            GameManager.Instance.SetCanTakeObject(false);
 
             // Finalizar ejercicio
             StartCoroutine(EndAfter(0.7f));

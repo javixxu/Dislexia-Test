@@ -124,6 +124,8 @@ public class InsertLetterExercise : ExerciseBase
     {
         GameManager.Instance.UpdateAnswersCounter(index == missingIndex);
 
+        GameManager.Instance.SetCanTakeObject(false);
+
         // End Exercise
         StartCoroutine(EndAfter(0.7f));
     }

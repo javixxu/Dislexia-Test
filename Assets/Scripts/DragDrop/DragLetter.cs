@@ -55,6 +55,8 @@ public class DragLetter : MonoBehaviour, IPointerDownHandler, IBeginDragHandler,
 
     public void OnBeginDrag(PointerEventData eventData)
     {
+        if (!GameManager.Instance.bCanTakeObject) return;
+
         Debug.Log("Begin drag " + letter);
 
         parentAfterDrag = (RectTransform)transform.parent;
@@ -73,6 +75,8 @@ public class DragLetter : MonoBehaviour, IPointerDownHandler, IBeginDragHandler,
     }
     public void OnDrag(PointerEventData eventData)
     {
+        if (!GameManager.Instance.bCanTakeObject) return;
+
         rect.anchoredPosition += eventData.delta / uIManager.GetMainCanvas().scaleFactor;
         //transform.position = Input.mousePosition;
 
@@ -105,6 +109,8 @@ public class DragLetter : MonoBehaviour, IPointerDownHandler, IBeginDragHandler,
     }
     public void OnEndDrag(PointerEventData eventData)
     {
+       // if (!GameManager.Instance.bCanTakeObject) return;
+
         Debug.Log("End drag " + letter);
         background.raycastTarget = true;
         background.color = ColorOnDragEnd;
@@ -122,7 +128,9 @@ public class DragLetter : MonoBehaviour, IPointerDownHandler, IBeginDragHandler,
             // If the item moved call CheckSolution
             if (newIndex != originalIndex)
             {
-                GameManager.Instance.currentExercise?.CheckSolution(-1);
+                var gameManager = GameManager.Instance;
+                gameManager.currentExercise?.CheckSolution(-1);
+              
             }
         }
         else

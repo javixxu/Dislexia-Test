@@ -38,6 +38,9 @@ public class GameManager : MonoBehaviour
     private AnswersCounter answersCounter;
     public Action<AnswersCounter> onAnswersCounterChanged;
 
+    //Cant Move Until Load the next Exercise
+    public bool bCanTakeObject { get; private set; }
+
     private void Awake()
     {
         if (Instance != null && Instance != this)
@@ -112,6 +115,7 @@ public class GameManager : MonoBehaviour
 
     public void OnExerciseFinished()
     {
+        bCanTakeObject = false;
 
         //Get a random diferentExercise
         if (exercisesSystem == null)
@@ -155,6 +159,7 @@ public class GameManager : MonoBehaviour
 
             currentExercise?.Show(nextExercise);
             currentExercise.onExerciseFinished += OnExerciseFinished;
+            bCanTakeObject = true;
         }
         else
         {
@@ -249,5 +254,7 @@ public class GameManager : MonoBehaviour
             AudioManager.Instance.PlaySFX(entry.soundInstruction);
         }
     }
+
+   public void SetCanTakeObject(bool active) { bCanTakeObject = active; }
 }
 
