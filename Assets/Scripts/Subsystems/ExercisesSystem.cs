@@ -7,7 +7,7 @@ public class ExercisesSystem
 {
     public Root loadedData;
 
-    int currentPackageIndex = -1; // El índice del paquete actual
+    int currentPackageIndex = 1; // El índice del paquete actual
     List<Exercise> pendingExercises; // Lista de ejercicios pendientes del paquete actual
 
     Dictionary<int, int> ExercisesDone;
@@ -43,18 +43,19 @@ public class ExercisesSystem
         pendingExercises = new List<Exercise>(loadedData.packages[packageIndex].exercises);
     }
 
+    public void Reset()
+    {
+        currentPackageIndex = -1;
+        pendingExercises = null;
+        ExercisesDone.Clear();
+    }
+
     // Devuelve el siguiente ejercicio (sin repetir)
     public Exercise GetNextExercise()
     {
         if (pendingExercises == null || pendingExercises.Count == 0)
         {
-            // Pasar al siguiente paquete
-            InitPackage(currentPackageIndex + 1);
-
-            if (pendingExercises == null || pendingExercises.Count == 0)
-                return null; // no hay más paquetes
-
-            OnPackageChanged?.Invoke(loadedData.packages[currentPackageIndex]);
+            return null;
         }
 
         int randomIndex = UnityEngine.Random.Range(0, pendingExercises.Count);
@@ -87,5 +88,44 @@ public class ExercisesSystem
             return -1;
 
         return loadedData.packages[currentPackageIndex].typeId;
+    }
+
+    public bool UpdateNextPackage()
+    {
+        if (loadedData == null || loadedData.packages == null || loadedData.packages.Count == 0)
+        {
+            Debug.LogWarning("No hay paquetes cargados.");
+            return false;
+        }
+
+        // Avanzar al siguiente paquete
+        currentPackageIndex++;
+
+        if (currentPackageIndex >= loadedData.packages.Count)
+        {
+            Debug.Log("No hay más paquetes disponibles.");
+            pendingExercises = null;
+            return false;
+        }
+
+        // Inicializar ejercicios del nuevo paquete
+        InitPackage(currentPackageIndex);
+
+        // Lanzar evento indicando el paquete actual
+        OnPackageChanged?.Invoke(loadedData.packages[currentPackageIndex]);
+        return true;
+    }
+
+    public Package GetCurrentPackage()
+    {
+        if (loadedData == null || loadedData.packages == null || currentPackageIndex < 0 || currentPackageIndex >= loadedData.packages.Count)
+            return null;
+
+        return loadedData.packages[currentPackageIndex];
+    }
+
+    public bool HasPendingExercises()
+    {
+        return pendingExercises != null && pendingExercises.Count > 0;
     }
 }

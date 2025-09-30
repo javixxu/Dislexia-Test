@@ -465,6 +465,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -3209,7 +3235,131 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      muliSemiBold_0: -7331278885493175813
+      muliSemiBold_1: 3506374070886277771
+      muliSemiBold_10: 5522723799493890692
+      muliSemiBold_100: 7781302149683963996
+      muliSemiBold_101: -1546340681284523640
+      muliSemiBold_102: 5112138241407255701
+      muliSemiBold_103: -7544638833669677102
+      muliSemiBold_104: 2588704266970773978
+      muliSemiBold_105: -1977514566698614132
+      muliSemiBold_106: 6417495672212924853
+      muliSemiBold_107: -8282834728521169296
+      muliSemiBold_108: 5571020109925230453
+      muliSemiBold_109: -8307280168161122621
+      muliSemiBold_11: -8230400429480411433
+      muliSemiBold_110: 6902155669853454560
+      muliSemiBold_111: 525637558857254717
+      muliSemiBold_112: -6329658192628190299
+      muliSemiBold_113: -8771205425227582565
+      muliSemiBold_114: -1182040117067785887
+      muliSemiBold_115: 256055190290198007
+      muliSemiBold_116: 5555292142308253014
+      muliSemiBold_117: 6664977873693609337
+      muliSemiBold_118: 8546877653768482948
+      muliSemiBold_119: 8792713454817472907
+      muliSemiBold_12: 9100930363113685355
+      muliSemiBold_120: 9142186478210788650
+      muliSemiBold_121: 569747690359965888
+      muliSemiBold_122: 357774906436394264
+      muliSemiBold_123: -7501107748088755335
+      muliSemiBold_13: 4598362448881308219
+      muliSemiBold_14: 7734040150440735474
+      muliSemiBold_15: -2912148011930804229
+      muliSemiBold_16: 6620226210089574800
+      muliSemiBold_17: 7205833865681448737
+      muliSemiBold_18: -5703832418938622683
+      muliSemiBold_19: 1765943490378331527
+      muliSemiBold_2: -6193135979501616029
+      muliSemiBold_20: 5310709960641760423
+      muliSemiBold_21: -9167737133900092042
+      muliSemiBold_22: -1855544200108614249
+      muliSemiBold_23: -5029479608271796154
+      muliSemiBold_24: 756387905156477593
+      muliSemiBold_25: -8338439043347295220
+      muliSemiBold_26: 3534031717638191266
+      muliSemiBold_27: 8216679117839657514
+      muliSemiBold_28: -1708073295013176442
+      muliSemiBold_29: 6311961690792850732
+      muliSemiBold_3: 1535484777715308689
+      muliSemiBold_30: 1052381934556212393
+      muliSemiBold_31: -8122692504139317889
+      muliSemiBold_32: 8277730393686775615
+      muliSemiBold_33: 2166580120350983070
+      muliSemiBold_34: -1564995171071071088
+      muliSemiBold_35: 6299986529455556437
+      muliSemiBold_36: -7297151098576843108
+      muliSemiBold_37: 2220811093940497579
+      muliSemiBold_38: 4565541794156682703
+      muliSemiBold_39: 5311087207961724980
+      muliSemiBold_4: 1089774089249530116
+      muliSemiBold_40: 1516905486456474779
+      muliSemiBold_41: -8485083433594105352
+      muliSemiBold_42: 939478078954509309
+      muliSemiBold_43: 2100877212513286596
+      muliSemiBold_44: -4088189780418198848
+      muliSemiBold_45: 3641387445030206585
+      muliSemiBold_46: -1830845072009396386
+      muliSemiBold_47: -8255289401745305112
+      muliSemiBold_48: -133698958418183691
+      muliSemiBold_49: 3520308581973557610
+      muliSemiBold_5: -5470158145583940825
+      muliSemiBold_50: 7718106080265228172
+      muliSemiBold_51: 8269049187326238998
+      muliSemiBold_52: 126663111492787752
+      muliSemiBold_53: 3591242477769468271
+      muliSemiBold_54: -9172434752598307137
+      muliSemiBold_55: 7844697124990332158
+      muliSemiBold_56: -3566555368106614729
+      muliSemiBold_57: -1136461608341633436
+      muliSemiBold_58: 6017115264650099226
+      muliSemiBold_59: -4289833401699008737
+      muliSemiBold_6: 8899198221799900963
+      muliSemiBold_60: 179235421877973296
+      muliSemiBold_61: -6203881063945856056
+      muliSemiBold_62: -3007770755949873506
+      muliSemiBold_63: -6698010927686602826
+      muliSemiBold_64: -1940679184639572902
+      muliSemiBold_65: 4733044499520462757
+      muliSemiBold_66: -5534798641153748730
+      muliSemiBold_67: -4229568952318181324
+      muliSemiBold_68: -7802614466769169518
+      muliSemiBold_69: -2143793122260933154
+      muliSemiBold_7: -7012199519213445700
+      muliSemiBold_70: 5242393250014002396
+      muliSemiBold_71: 3989977769684438445
+      muliSemiBold_72: -8666510269962325584
+      muliSemiBold_73: 6157016836832114410
+      muliSemiBold_74: -3439334576183474919
+      muliSemiBold_75: -6271353547325178527
+      muliSemiBold_76: -3567673542068718629
+      muliSemiBold_77: 8919735549270711710
+      muliSemiBold_78: 4486304555883607081
+      muliSemiBold_79: -5678032348510304116
+      muliSemiBold_8: 3387887396188262552
+      muliSemiBold_80: -7271819839598937355
+      muliSemiBold_81: 8636931951716577783
+      muliSemiBold_82: 8618473785594203633
+      muliSemiBold_83: 1794260821197050220
+      muliSemiBold_84: -5541549797737381662
+      muliSemiBold_85: -805296141161328051
+      muliSemiBold_86: -7233496086700652510
+      muliSemiBold_87: -4013525126662470310
+      muliSemiBold_88: 7484794763917102108
+      muliSemiBold_89: 1678806914942248477
+      muliSemiBold_9: -3390095355926650753
+      muliSemiBold_90: 772057354237467367
+      muliSemiBold_91: -9120977157217358232
+      muliSemiBold_92: 8201648901776827598
+      muliSemiBold_93: 3668422726073775348
+      muliSemiBold_94: 6093025344881901227
+      muliSemiBold_95: -7312344665223704848
+      muliSemiBold_96: 4935948968430713586
+      muliSemiBold_97: 8335307014418261367
+      muliSemiBold_98: -8463151731054773075
+      muliSemiBold_99: -5866468851313342608
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

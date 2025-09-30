@@ -384,6 +384,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2534,7 +2560,104 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      angellaButtons_0: -527474250059772180
+      angellaButtons_1: 5616709149045945310
+      angellaButtons_10: 8614925919682125934
+      angellaButtons_11: 1020910686498529489
+      angellaButtons_12: 2862874377787657219
+      angellaButtons_13: -8565224332588495919
+      angellaButtons_14: -1711502608866982455
+      angellaButtons_15: -2947944085750265644
+      angellaButtons_16: 303136639358062305
+      angellaButtons_17: 6584142780938135217
+      angellaButtons_18: 3425635498788389828
+      angellaButtons_19: -4630067209228923506
+      angellaButtons_2: 6285023322636458566
+      angellaButtons_20: -2571293054841900544
+      angellaButtons_21: 9139811408125364366
+      angellaButtons_22: -1970305803124494794
+      angellaButtons_23: 1422559958414007037
+      angellaButtons_24: -3110148050344621828
+      angellaButtons_25: -3509139263023103605
+      angellaButtons_26: -4446762679967319837
+      angellaButtons_27: 55219571017911311
+      angellaButtons_28: -9002086158202298439
+      angellaButtons_29: -5751808738650131117
+      angellaButtons_3: -7284781714489206131
+      angellaButtons_30: -6350981735768681146
+      angellaButtons_31: 698928843874191987
+      angellaButtons_32: 8709630084077852600
+      angellaButtons_33: -2871773731796078740
+      angellaButtons_34: -739585682105158871
+      angellaButtons_35: -8205509961112207095
+      angellaButtons_36: 8940772460179703047
+      angellaButtons_37: -1744903648406377352
+      angellaButtons_38: -3491161413082990717
+      angellaButtons_39: -2167834577112202318
+      angellaButtons_4: 929516592684894502
+      angellaButtons_40: 3523214187311720794
+      angellaButtons_41: -8057631775523599622
+      angellaButtons_42: 5069398395946520247
+      angellaButtons_43: 3794766489056046134
+      angellaButtons_44: 5804408416594296432
+      angellaButtons_45: -1458113511261935918
+      angellaButtons_46: 3988503212115602671
+      angellaButtons_47: 5823026672264248941
+      angellaButtons_48: -5916377859917023200
+      angellaButtons_49: 6023091609170322973
+      angellaButtons_5: 1206744853738615195
+      angellaButtons_50: -3854184485821256299
+      angellaButtons_51: 1870795519336432556
+      angellaButtons_52: -8622522484723763709
+      angellaButtons_53: -7226181189825853888
+      angellaButtons_54: 5810625335554551144
+      angellaButtons_55: -849734174163673774
+      angellaButtons_56: -4236499868051498776
+      angellaButtons_57: -592481167090064131
+      angellaButtons_58: 6185115391151081106
+      angellaButtons_59: 4862329162542241307
+      angellaButtons_6: 9032719324203489638
+      angellaButtons_60: 4276418231615181483
+      angellaButtons_61: -5446848286028919664
+      angellaButtons_62: 554063339187617706
+      angellaButtons_63: -7158846013881692030
+      angellaButtons_64: 9020207701333681936
+      angellaButtons_65: 517585126731314300
+      angellaButtons_66: 3404721069471896756
+      angellaButtons_67: -6259099419645229139
+      angellaButtons_68: -8384503844927976713
+      angellaButtons_69: -8388697409353654672
+      angellaButtons_7: 2301231529353368891
+      angellaButtons_70: 5546576050744768274
+      angellaButtons_71: -7869661674706681134
+      angellaButtons_72: -7385866038058570569
+      angellaButtons_73: -4466578355186669477
+      angellaButtons_74: 2373625840177992466
+      angellaButtons_75: -7323242425005920721
+      angellaButtons_76: 274504849263577419
+      angellaButtons_77: 3906578406387331939
+      angellaButtons_78: 4120276388718023650
+      angellaButtons_79: 2014391849009044431
+      angellaButtons_8: -1272007049634857696
+      angellaButtons_80: 2163154205305017625
+      angellaButtons_81: 2511967693891242360
+      angellaButtons_82: 3900099691410249913
+      angellaButtons_83: -4123690931528892808
+      angellaButtons_84: -5397706970191657828
+      angellaButtons_85: 4794721087844154924
+      angellaButtons_86: 3760800496112605932
+      angellaButtons_87: 3547465672647994241
+      angellaButtons_88: -3445728281201997151
+      angellaButtons_89: -7148057565113148287
+      angellaButtons_9: 4065359237372867260
+      angellaButtons_90: -6061677062098745729
+      angellaButtons_91: -6744507684526868376
+      angellaButtons_92: 8282568950349909168
+      angellaButtons_93: 141933113562794102
+      angellaButtons_94: 6424015130878655552
+      angellaButtons_95: -4203207358909155521
+      angellaButtons_96: -3562790008768621184
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -408,6 +408,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2734,7 +2760,112 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      angellaNuclear_0: -2158963761480176005
+      angellaNuclear_1: 5840218636041255080
+      angellaNuclear_10: -7675737387878291858
+      angellaNuclear_100: 6444029294441852474
+      angellaNuclear_101: -7016737150631961558
+      angellaNuclear_102: -2287182982653109449
+      angellaNuclear_103: 746798810541869963
+      angellaNuclear_104: -6183345882195508293
+      angellaNuclear_11: 5792357354353793845
+      angellaNuclear_12: -6356831939917757257
+      angellaNuclear_13: -3364151457478893952
+      angellaNuclear_14: 6299504333457116048
+      angellaNuclear_15: -4504846983498322813
+      angellaNuclear_16: -1904374873525044145
+      angellaNuclear_17: -2841921738533601379
+      angellaNuclear_18: 7807941633391108139
+      angellaNuclear_19: 3707962235020052060
+      angellaNuclear_2: -910094644523227230
+      angellaNuclear_20: 7212803533988446648
+      angellaNuclear_21: 8267780279703617613
+      angellaNuclear_22: 5966479911688090847
+      angellaNuclear_23: -84247888185937772
+      angellaNuclear_24: 5385242164148413922
+      angellaNuclear_25: 1759108894348501016
+      angellaNuclear_26: 6185057022622053832
+      angellaNuclear_27: -9021453393959259765
+      angellaNuclear_28: 588526260626856709
+      angellaNuclear_29: -4360241240499853181
+      angellaNuclear_3: -4909576074378621010
+      angellaNuclear_30: -7993569470486254697
+      angellaNuclear_31: -7060982165214339442
+      angellaNuclear_32: 7438118473384767282
+      angellaNuclear_33: 2289703674091853216
+      angellaNuclear_34: 4991112754653881403
+      angellaNuclear_35: 2694355472175646426
+      angellaNuclear_36: -8121512524662716948
+      angellaNuclear_37: 827367134336240730
+      angellaNuclear_38: -4551101648006601144
+      angellaNuclear_39: -2833145929052515577
+      angellaNuclear_4: 5059824835261867239
+      angellaNuclear_40: -5624960073250173046
+      angellaNuclear_41: -4595375780500682308
+      angellaNuclear_42: -2882898349625808663
+      angellaNuclear_43: -4802388884402647005
+      angellaNuclear_44: 4391685079824807646
+      angellaNuclear_45: -8261809653619742480
+      angellaNuclear_46: -7815283285686320521
+      angellaNuclear_47: 1201131465157365745
+      angellaNuclear_48: 4216402663090393808
+      angellaNuclear_49: -5145996253696505064
+      angellaNuclear_5: 4537210073465707246
+      angellaNuclear_50: 8243502121501127409
+      angellaNuclear_51: 2338184679539379367
+      angellaNuclear_52: -1376637496041566993
+      angellaNuclear_53: -1318613627340327272
+      angellaNuclear_54: 4548782109625930803
+      angellaNuclear_55: 7080111046253121389
+      angellaNuclear_56: 5327601097293517338
+      angellaNuclear_57: -6468677420571311930
+      angellaNuclear_58: 5609191624417998365
+      angellaNuclear_59: 1321291257765414786
+      angellaNuclear_6: 8544962822736657082
+      angellaNuclear_60: -6413743372697917412
+      angellaNuclear_61: -5629688650090465926
+      angellaNuclear_62: 2911570483064018156
+      angellaNuclear_63: -7314354935035817447
+      angellaNuclear_64: -8952605189730287259
+      angellaNuclear_65: 8337472618445809740
+      angellaNuclear_66: -8342426631515565692
+      angellaNuclear_67: -6893739314858065991
+      angellaNuclear_68: 3641157940698978230
+      angellaNuclear_69: 106888951480702201
+      angellaNuclear_7: 1254412062621763531
+      angellaNuclear_70: 8473572670380470213
+      angellaNuclear_71: 2455159056445636586
+      angellaNuclear_72: -265756134129041490
+      angellaNuclear_73: -577827189559360520
+      angellaNuclear_74: 3805983964953068828
+      angellaNuclear_75: 7763437493025113817
+      angellaNuclear_76: 2447060282306085859
+      angellaNuclear_77: -7206316633422070520
+      angellaNuclear_78: -6010489021850646989
+      angellaNuclear_79: 3983150549571298017
+      angellaNuclear_8: 8048655692559948762
+      angellaNuclear_80: -3557002250748254268
+      angellaNuclear_81: -1081602227782408570
+      angellaNuclear_82: 6377918199369861111
+      angellaNuclear_83: -1238857309259759415
+      angellaNuclear_84: -4427858399868330952
+      angellaNuclear_85: -6480212929334243251
+      angellaNuclear_86: 4995761542930437622
+      angellaNuclear_87: 3287711669799901138
+      angellaNuclear_88: -2635034770269842745
+      angellaNuclear_89: -4100435575043106225
+      angellaNuclear_9: 8110613012641778793
+      angellaNuclear_90: 8621252492465457905
+      angellaNuclear_91: 5552616189927632158
+      angellaNuclear_92: -4968381628771699738
+      angellaNuclear_93: 7736230427586177708
+      angellaNuclear_94: 2661551711557590273
+      angellaNuclear_95: -3267960186843849292
+      angellaNuclear_96: 8922194842703587712
+      angellaNuclear_97: 8461132619472771241
+      angellaNuclear_98: -4888018089049584238
+      angellaNuclear_99: 1811326814004905119
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

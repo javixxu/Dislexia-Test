@@ -438,6 +438,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2984,7 +3010,122 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      muliBold_0: -4473364034150613850
+      muliBold_1: -1277140861502169137
+      muliBold_10: -5548166790408763860
+      muliBold_100: -5900190014698406519
+      muliBold_101: -3322607639662074815
+      muliBold_102: -174214711764728694
+      muliBold_103: 6221577602939471742
+      muliBold_104: 5216698554914089114
+      muliBold_105: -2298711862484204654
+      muliBold_106: 1808741189036226119
+      muliBold_107: -6411867280580413325
+      muliBold_108: 6210855168088037304
+      muliBold_109: 8754333139439215036
+      muliBold_11: -6171658584195230175
+      muliBold_110: -5878293093562566767
+      muliBold_111: -9124274017910074222
+      muliBold_112: 7765050306695807106
+      muliBold_113: 5804182988380650145
+      muliBold_114: -4755290563819566314
+      muliBold_12: -4022703634201891078
+      muliBold_13: -3578551371450793137
+      muliBold_14: -9221730890014293725
+      muliBold_15: 636335321818548738
+      muliBold_16: 615223664669430149
+      muliBold_17: 441683655684489748
+      muliBold_18: -8786506883023012620
+      muliBold_19: -6547285587319138240
+      muliBold_2: -3534495320134431615
+      muliBold_20: -4491857950922872416
+      muliBold_21: -884544081330496869
+      muliBold_22: 4359665905418465874
+      muliBold_23: -4275018499375855703
+      muliBold_24: -144705239716502618
+      muliBold_25: 4090323129647466031
+      muliBold_26: 5913291361923772056
+      muliBold_27: 2751683303404389891
+      muliBold_28: 7130477123307534698
+      muliBold_29: 8353554565366477528
+      muliBold_3: 6872532729114858340
+      muliBold_30: -4209527910886881347
+      muliBold_31: -3443608000367673327
+      muliBold_32: -267694211709046402
+      muliBold_33: 2718911190409683408
+      muliBold_34: 8014482916050425269
+      muliBold_35: 436154114920465884
+      muliBold_36: 4362305753873211448
+      muliBold_37: -4860117211297189353
+      muliBold_38: -2168723769186253123
+      muliBold_39: -3613252836177656956
+      muliBold_4: 1190462817236612905
+      muliBold_40: -460054308191085066
+      muliBold_41: 1632413138140067769
+      muliBold_42: 856955141990449270
+      muliBold_43: -1430516340877100455
+      muliBold_44: 3672742364779334101
+      muliBold_45: 179038769242118439
+      muliBold_46: 8940459669838975569
+      muliBold_47: -5598047665298446738
+      muliBold_48: 1957883419575210100
+      muliBold_49: -2715860409756969702
+      muliBold_5: 3561103951440256572
+      muliBold_50: -2345745828415331753
+      muliBold_51: -6844022474088772926
+      muliBold_52: -1546029515632062078
+      muliBold_53: 1841872982267820696
+      muliBold_54: -303241681077288581
+      muliBold_55: 8655390163878724604
+      muliBold_56: -5719736603151971092
+      muliBold_57: -5709172050224589358
+      muliBold_58: 8237971258373416755
+      muliBold_59: 2530526134043822641
+      muliBold_6: 7599693263411795985
+      muliBold_60: 7649055197063584900
+      muliBold_61: 5031571120177375849
+      muliBold_62: -1578846456038549322
+      muliBold_63: 9094159304533994719
+      muliBold_64: 6123178052802627400
+      muliBold_65: -4411107002625041632
+      muliBold_66: -7756990158956489902
+      muliBold_67: 4970936553655743664
+      muliBold_68: -2088513131457855762
+      muliBold_69: -3411189466666706625
+      muliBold_7: 769649901299398815
+      muliBold_70: 229786799030153332
+      muliBold_71: -1122600986304878439
+      muliBold_72: -1172729635747358674
+      muliBold_73: 2603560718865176271
+      muliBold_74: -1746267830773041935
+      muliBold_75: -3117346090521273119
+      muliBold_76: 7526929553634761910
+      muliBold_77: -2330554398052357838
+      muliBold_78: 6744734212012736748
+      muliBold_79: 7247127176431312169
+      muliBold_8: -3402588531965882284
+      muliBold_80: 8378355592927238796
+      muliBold_81: 2491481180114316831
+      muliBold_82: 5566069067870432904
+      muliBold_83: 1077112500497246644
+      muliBold_84: -725595455590967359
+      muliBold_85: -5845659175117000143
+      muliBold_86: -5124215321301947457
+      muliBold_87: 7897885260377707489
+      muliBold_88: -5671619537757732550
+      muliBold_89: -6183216474294805810
+      muliBold_9: -934751689879621184
+      muliBold_90: 4796509400351606706
+      muliBold_91: -5945036300190827514
+      muliBold_92: 8524069179701524857
+      muliBold_93: 3051958174863734775
+      muliBold_94: -2594843488395556694
+      muliBold_95: 2644992533777282868
+      muliBold_96: -8559047748466048652
+      muliBold_97: -3826267639288372533
+      muliBold_98: 6825272115376096765
+      muliBold_99: -4077465280416764715
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

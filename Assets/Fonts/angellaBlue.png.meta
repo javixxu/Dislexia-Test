@@ -411,6 +411,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2759,7 +2785,113 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      angellaBlue_0: 1238911176611067110
+      angellaBlue_1: 7287461893316638752
+      angellaBlue_10: -6411109505298699916
+      angellaBlue_100: 5713930556800075840
+      angellaBlue_101: -5029344598957853710
+      angellaBlue_102: 1363327650995599812
+      angellaBlue_103: -4206006390675184361
+      angellaBlue_104: 8100905158149827531
+      angellaBlue_105: -3660917742416439532
+      angellaBlue_11: 5677678991545454408
+      angellaBlue_12: -2899578172431617677
+      angellaBlue_13: 6161988962070765274
+      angellaBlue_14: -6482130989076231841
+      angellaBlue_15: -941328262597113376
+      angellaBlue_16: 5022789920457134288
+      angellaBlue_17: 5612225725889201326
+      angellaBlue_18: 6026713623856034984
+      angellaBlue_19: -7100655708147363943
+      angellaBlue_2: -5926438162372494905
+      angellaBlue_20: -8668654694652039313
+      angellaBlue_21: -4540880482468936500
+      angellaBlue_22: -8487648328864323467
+      angellaBlue_23: -4183263187875887362
+      angellaBlue_24: -5674462070214784590
+      angellaBlue_25: 5371057126262616237
+      angellaBlue_26: 1123082529187869962
+      angellaBlue_27: -2697383751199297019
+      angellaBlue_28: 5088695545027474376
+      angellaBlue_29: 8534383862264822082
+      angellaBlue_3: -610769250364791640
+      angellaBlue_30: -5927553078961423982
+      angellaBlue_31: -8534219329501457200
+      angellaBlue_32: 1832929902544114097
+      angellaBlue_33: -7962433552836609140
+      angellaBlue_34: -1432973888022938667
+      angellaBlue_35: 6574690532122935616
+      angellaBlue_36: 2589887753638541248
+      angellaBlue_37: -950703051318620735
+      angellaBlue_38: 51981818911943925
+      angellaBlue_39: 2250777126059878366
+      angellaBlue_4: 6803008849688076320
+      angellaBlue_40: -4667128116155388765
+      angellaBlue_41: -2907960252326001696
+      angellaBlue_42: -8755809378555018730
+      angellaBlue_43: -353113340917740753
+      angellaBlue_44: 1772328013766801027
+      angellaBlue_45: 2622581060678415500
+      angellaBlue_46: -7923963404244215980
+      angellaBlue_47: 3230151942911388320
+      angellaBlue_48: 2235445411749425582
+      angellaBlue_49: -7732343673686965569
+      angellaBlue_5: 399589621539450860
+      angellaBlue_50: 4261203032741689165
+      angellaBlue_51: -7432381016283323692
+      angellaBlue_52: -2592930275150699651
+      angellaBlue_53: -1079376067367406357
+      angellaBlue_54: -4335661618587711885
+      angellaBlue_55: 4766057106950221795
+      angellaBlue_56: 5094159507892346271
+      angellaBlue_57: -47667034100882778
+      angellaBlue_58: 3257417388099846625
+      angellaBlue_59: -1485692070526879133
+      angellaBlue_6: -7315312954931456737
+      angellaBlue_60: 8874268231611465108
+      angellaBlue_61: -7065119576689710011
+      angellaBlue_62: 518474346426948111
+      angellaBlue_63: -1382563795214092142
+      angellaBlue_64: -2176757529329616989
+      angellaBlue_65: -1867997191005816181
+      angellaBlue_66: -1677567172603824261
+      angellaBlue_67: -5271477136789257357
+      angellaBlue_68: -1977968355335253860
+      angellaBlue_69: 3275704893113271049
+      angellaBlue_7: -3044883310999583329
+      angellaBlue_70: -4459163053779969416
+      angellaBlue_71: -4890743443537967111
+      angellaBlue_72: 648743561221559952
+      angellaBlue_73: -6182275532700491813
+      angellaBlue_74: 6183802628238446987
+      angellaBlue_75: -3518870740831735779
+      angellaBlue_76: 1643437100081920268
+      angellaBlue_77: 4793323781888168084
+      angellaBlue_78: 139823812448654605
+      angellaBlue_79: 5073038626748110636
+      angellaBlue_8: 7625463802123989783
+      angellaBlue_80: -4724955983387239839
+      angellaBlue_81: -1428923562921393823
+      angellaBlue_82: -7892633746999749079
+      angellaBlue_83: -3759301420993054623
+      angellaBlue_84: -5594341443962018707
+      angellaBlue_85: -2545197688256240827
+      angellaBlue_86: -3229946126606410583
+      angellaBlue_87: 2875427799372561498
+      angellaBlue_88: 7511777468729705743
+      angellaBlue_89: -6722929808518397871
+      angellaBlue_9: -6878831573663643205
+      angellaBlue_90: 3326676625694356899
+      angellaBlue_91: -6531933085064519761
+      angellaBlue_92: -2680653702433508015
+      angellaBlue_93: 1449124706099019713
+      angellaBlue_94: -724739914366089583
+      angellaBlue_95: 8813541377090857310
+      angellaBlue_96: -1418492881797980523
+      angellaBlue_97: -395247235850712739
+      angellaBlue_98: 584583014620353316
+      angellaBlue_99: 6441805427161854996
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

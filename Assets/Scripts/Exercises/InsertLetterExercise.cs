@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class InsertLetterExercise : ExerciseBase
 {
@@ -20,6 +21,8 @@ public class InsertLetterExercise : ExerciseBase
     int missingIndex;
     List<string> options;
 
+    [SerializeField]
+    Color MissingColorLetter;
     public override void Show(Exercise data)
     {
         if (data == null)
@@ -74,7 +77,7 @@ public class InsertLetterExercise : ExerciseBase
         SetupUI();
     }
 
-    void SetupUI()
+    protected override void SetupUI()
     {
         // limpiar palabra previa
         foreach (Transform t in wordParent) Destroy(t.gameObject);
@@ -89,6 +92,7 @@ public class InsertLetterExercise : ExerciseBase
             if (i == missingIndex)
             {
                 slot.name = "MissingSlot";
+                slot.GetComponent<Image>().color = MissingColorLetter;
             }
 
             letterSlot?.Init(text, i, i == missingIndex);
@@ -115,11 +119,5 @@ public class InsertLetterExercise : ExerciseBase
 
         // End Exercise
         StartCoroutine(EndAfter(0.4f));
-    }
-
-    System.Collections.IEnumerator EndAfter(float s)
-    {
-        yield return new WaitForSeconds(s);
-        Finish();
     }
 }

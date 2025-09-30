@@ -9,13 +9,6 @@ public class CountdownWidget : MonoBehaviour
 
     private Coroutine countdownCoroutine;
 
-
-    private void Start()
-    {
-        //tofdo hacer invisiblesi nose usa
-        gameObject.SetActive(false);
-    }
-
     public void StartCountdown(int seconds, Action onCountdownFinished)
     {
         gameObject.SetActive(true);
@@ -37,12 +30,16 @@ public class CountdownWidget : MonoBehaviour
             if (countdownText != null)
                 countdownText.text = counter.ToString();
 
-            yield return new WaitForSeconds(1f);
+            Debug.Log("COUNTDOWN: " + counter);
+
+            yield return new WaitForSeconds(1f); // Wait 1 sec
             counter--;
         }
 
         if (countdownText != null)
             countdownText.text = "¡GO!";
+
+        yield return new WaitForSeconds(1f);
 
         onCountdownFinished?.Invoke();
 

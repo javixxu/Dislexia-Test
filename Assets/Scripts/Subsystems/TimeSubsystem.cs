@@ -48,6 +48,13 @@ public class TimeSubsystem
             OnTimeOver?.Invoke();
     }
 
+    public void Reset()
+    {
+        TimeRemaining = 0;
+        bPaused = true;
+        lastWholeSecond = 0;
+    }
+
     public float GetCurrentTime()
     {
         return TimeRemaining;

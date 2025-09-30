@@ -7,8 +7,10 @@ using UnityEngine.EventSystems;
 public class LetterSlot : MonoBehaviour, IDropHandler
 {
     bool bCanPlace = true; 
+
     string correctLetter;
     int index;
+
     DragLetter currentDragLetter = null;
 
     public void Init(string correctLetter,int index = -1, bool bCanPlace = true)
@@ -30,7 +32,7 @@ public class LetterSlot : MonoBehaviour, IDropHandler
 
     public void OnDrop(PointerEventData eventData)
     {
-        if (transform.childCount > 0 || !bCanPlace) return;
+        if (!bCanPlace) return;
 
         // Comprobar si lo que se dropea tiene un DragLetter
         DragLetter dragLetter = eventData.pointerDrag?.GetComponent<DragLetter>();
@@ -38,6 +40,8 @@ public class LetterSlot : MonoBehaviour, IDropHandler
 
         if (dragLetter.GetCurrentLetter() != correctLetter)
         {
+            GameManager.Instance.currentExercise.CheckSolution(-1);
+
             Debug.Log($"Slot: Incorrecto");
             return;
         }
@@ -45,7 +49,6 @@ public class LetterSlot : MonoBehaviour, IDropHandler
         //dragLetter.transform.position = transform.position;
         dragLetter.SetParentAfterDrag((RectTransform)transform);
         currentDragLetter = dragLetter;
-
 
         GameManager.Instance.currentExercise.CheckSolution(index);
 

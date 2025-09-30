@@ -25,7 +25,7 @@ class TimerWidget: MonoBehaviour
 
     private void UpdateUI(int secondsRemaining)
     {
-        timerText.text = $"Tiempo: {secondsRemaining}s";
+        timerText.text = $"{secondsRemaining}";
     }
 
 }

@@ -414,6 +414,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2784,7 +2810,114 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      angellafont_0: 4834854681842773421
+      angellafont_1: 3017548818086008019
+      angellafont_10: -410564966751859019
+      angellafont_100: -511944604307828374
+      angellafont_101: -5656086933079788095
+      angellafont_102: 8770984459046113749
+      angellafont_103: -7948169845265390181
+      angellafont_104: -8648098094585156339
+      angellafont_105: -2115854436431347199
+      angellafont_106: 8382996538502257212
+      angellafont_11: 51177546048306594
+      angellafont_12: 7009701460523754655
+      angellafont_13: -5205594726545820201
+      angellafont_14: 3066082194563206004
+      angellafont_15: -8631571967965112192
+      angellafont_16: -5231453338124176442
+      angellafont_17: 4568392122233254833
+      angellafont_18: -3372510005013753932
+      angellafont_19: -3826716467928641117
+      angellafont_2: 6239930584973194791
+      angellafont_20: -2243130522035422225
+      angellafont_21: 3655397298340739342
+      angellafont_22: 8746227577185545348
+      angellafont_23: 8200065659682165530
+      angellafont_24: -8455402650159876765
+      angellafont_25: -6077574289888157983
+      angellafont_26: -3581899920154447768
+      angellafont_27: -4390073708200915574
+      angellafont_28: 4852385382711810178
+      angellafont_29: -558912858017637538
+      angellafont_3: -6883463781443379438
+      angellafont_30: -4999916489371760685
+      angellafont_31: -8261085710100842812
+      angellafont_32: 6424965179017337924
+      angellafont_33: -3398503604727929993
+      angellafont_34: 2593190459588002105
+      angellafont_35: 8734824946690207544
+      angellafont_36: -7675311170819162195
+      angellafont_37: 9122802083303959285
+      angellafont_38: -8960142339099860102
+      angellafont_39: -7209391982494091879
+      angellafont_4: -5775879212419282776
+      angellafont_40: -5767922472975645930
+      angellafont_41: -219048973463545374
+      angellafont_42: 4069234586739784502
+      angellafont_43: 3344036514113247846
+      angellafont_44: -1140766814215495836
+      angellafont_45: 9210074757885697900
+      angellafont_46: 6009830524174790516
+      angellafont_47: 6302080661008499237
+      angellafont_48: 1907888589995632861
+      angellafont_49: -506951124347236348
+      angellafont_5: 884947755278947676
+      angellafont_50: 3900242666780599950
+      angellafont_51: -7531348630612860261
+      angellafont_52: 1201357544224331702
+      angellafont_53: -7231209090879767000
+      angellafont_54: 9207949197602765917
+      angellafont_55: -4814565346538933236
+      angellafont_56: 5511302891002994819
+      angellafont_57: -1006527166174275453
+      angellafont_58: 8508705450516834675
+      angellafont_59: 3041348422568972434
+      angellafont_6: 79047104804416566
+      angellafont_60: 6662608702518019098
+      angellafont_61: -6865058122080994630
+      angellafont_62: -7069789319796291557
+      angellafont_63: 5279561872031439036
+      angellafont_64: -4534035514672163952
+      angellafont_65: -5762324465369787454
+      angellafont_66: -1100876812213580332
+      angellafont_67: -7348229026812728697
+      angellafont_68: -5039135427213231031
+      angellafont_69: -3795097057354661829
+      angellafont_7: 2581437440136237508
+      angellafont_70: 5039509949250193333
+      angellafont_71: 7162110723797389153
+      angellafont_72: -5199809781608972940
+      angellafont_73: -7363451121226518676
+      angellafont_74: -1670505034542780984
+      angellafont_75: 8689959337328111004
+      angellafont_76: -5656259464267052661
+      angellafont_77: -7561258236140787469
+      angellafont_78: 4741955742227201292
+      angellafont_79: 7482804075878491784
+      angellafont_8: -3622543475309974191
+      angellafont_80: -7476493302819053592
+      angellafont_81: 4387582891810138539
+      angellafont_82: -8120724313515284239
+      angellafont_83: -6920813837037458462
+      angellafont_84: 4864033382595070012
+      angellafont_85: -4875419217837080665
+      angellafont_86: -4599245217610593954
+      angellafont_87: -834724875252778249
+      angellafont_88: 7009392999362917718
+      angellafont_89: -8622673193355559399
+      angellafont_9: 1595450583754948658
+      angellafont_90: -3138698088078711427
+      angellafont_91: -5144525741220903245
+      angellafont_92: -8373934550750445573
+      angellafont_93: 367150389070692
+      angellafont_94: -3273148739100400524
+      angellafont_95: -8253569260152450818
+      angellafont_96: -6842494267598829137
+      angellafont_97: -3086670569232518014
+      angellafont_98: 2336071064461824757
+      angellafont_99: -6403365693919313055
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

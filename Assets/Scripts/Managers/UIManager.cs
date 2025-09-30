@@ -9,10 +9,21 @@ public class UIManager : MonoBehaviour
     public Canvas mainCanvas;
 
     [SerializeField]
+    Transform ExercisePanel;
+
+    [SerializeField]
     CountdownWidget countdownWidget;
 
     [SerializeField]
     TimerWidget timerWidget;
+
+
+    [SerializeField]
+    ScoreWidget ScoreWidget;
+
+
+    [SerializeField]
+    InfoWidget InfoWidget;
 
     private void Awake()
     {
@@ -43,6 +54,9 @@ public class UIManager : MonoBehaviour
     {
         if (countdownWidget != null)
         {
+            if (!countdownWidget.gameObject.activeSelf)
+                countdownWidget.gameObject.SetActive(true);
+
             countdownWidget.StartCountdown(seconds, onCountdownFinished);
         }
         else
@@ -51,4 +65,5 @@ public class UIManager : MonoBehaviour
             onCountdownFinished?.Invoke();
         }
     }
+    public Transform GetExercisePanel() { return ExercisePanel; }
 }
