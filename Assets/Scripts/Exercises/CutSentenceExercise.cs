@@ -40,7 +40,7 @@ public class CutSentenceExercise : ExerciseBase, IPointerDownHandler
         {
             Debug.Log("¡CORRECTO! " + userSentence);
             GameManager.Instance.UpdateAnswersCounter(true);
-            StartCoroutine(EndAfter(0.4f));
+            StartCoroutine(EndAfter(0.7f));
         }
     }
     protected override void SetupUI()
@@ -65,6 +65,8 @@ public class CutSentenceExercise : ExerciseBase, IPointerDownHandler
 
         int globalIndex = allSegments.IndexOf(clickedObj);
         if (globalIndex < 0) return;
+
+        AudioManager.Instance.PlaySFX("fx_click");
 
         RectTransform tmpRect = clickedObj.GetComponent<RectTransform>();
         Vector2 localPoint;
@@ -98,7 +100,7 @@ public class CutSentenceExercise : ExerciseBase, IPointerDownHandler
 
         // Crear un nuevo espacio como imagen
         var spaceGO = Instantiate(spacePrefab, container);
-        spaceGO.tag = "Space"; // marca para identificar
+
         int insertIndex = insertRight ? globalIndex + 1 : globalIndex;
         spaceGO.transform.SetSiblingIndex(insertIndex);
 

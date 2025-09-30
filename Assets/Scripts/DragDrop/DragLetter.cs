@@ -73,7 +73,7 @@ public class DragLetter : MonoBehaviour, IPointerDownHandler, IBeginDragHandler,
     }
     public void OnDrag(PointerEventData eventData)
     {
-        rect.anchoredPosition += eventData.delta / canvas.scaleFactor;
+        rect.anchoredPosition += eventData.delta / uIManager.GetMainCanvas().scaleFactor;
         //transform.position = Input.mousePosition;
 
         if (!CheckOrderReparent || placeholderInstance == null) return;

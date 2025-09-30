@@ -166,9 +166,8 @@ public class GameManager : MonoBehaviour
     {
         if (currentExercise != null)
         {
-            currentExercise.gameObject.SetActive(false);
             currentExercise.onExerciseFinished -= OnExerciseFinished;
-           // Destroy(currentExercise.gameObject);
+            Destroy(currentExercise.gameObject);
             currentExercise = null;
         }
     }
@@ -183,10 +182,12 @@ public class GameManager : MonoBehaviour
         if (bRight)
         {
             answersCounter.success++;
+            AudioManager.Instance.PlaySFX("fx_correct");
         }
         else
         {
             answersCounter.errors++;
+            AudioManager.Instance.PlaySFX("fx_error");
         }
         Debug.Log($"Aciertos: {answersCounter.success} - Errores: {answersCounter.errors}");
     }
@@ -212,6 +213,9 @@ public class GameManager : MonoBehaviour
         else if (scene.name == "GameLevel")
         {
             AudioManager.Instance.PlayBGM("ch_landscape_1");
+            //For Next Exercise
+            UIManager.Instance.GetScoreWidget()?.gameObject.SetActive(true);
+
             OnExerciseFinished(); // Get a new Exercise
         }
         else if (scene.name == "GameOver")

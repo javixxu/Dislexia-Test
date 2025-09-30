@@ -46,6 +46,8 @@ public class LetterSlot : MonoBehaviour, IDropHandler
             return;
         }
 
+        Destroy(transform.GetChild(0)?.gameObject);
+
         //dragLetter.transform.position = transform.position;
         dragLetter.SetParentAfterDrag((RectTransform)transform);
         currentDragLetter = dragLetter;

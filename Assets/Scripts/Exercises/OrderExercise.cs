@@ -68,7 +68,7 @@ public class OrderExercise : ExerciseBase
             GameManager.Instance.UpdateAnswersCounter(true);
 
             // Finalizar ejercicio
-            StartCoroutine(EndAfter(0.4f));
+            StartCoroutine(EndAfter(0.7f));
         }
         else if( restMovements <= 0)
         {
@@ -76,7 +76,7 @@ public class OrderExercise : ExerciseBase
             GameManager.Instance.UpdateAnswersCounter(false);
 
             // Finalizar ejercicio
-            StartCoroutine(EndAfter(0.4f));
+            StartCoroutine(EndAfter(0.7f));
         }
 
        

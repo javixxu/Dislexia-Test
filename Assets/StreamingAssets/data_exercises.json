@@ -12,25 +12,18 @@
             "level": 4,
             "exercises": [
               {
-                "id": 1546,
-                "distractors": "r n m t",
-                "target": "s",
-                "display": "vetir",
-                "word": "vestir"
-              },
-              {
-                "id": 1520,
-                "distractors": "a u o i",
+                "id": 1543,
+                "distractors": "a o s r",
                 "target": "e",
-                "display": "nuva",
-                "word": "nueva"
+                "display": "veint",
+                "word": "veinte"
               },
               {
-                "id": 1547,
-                "distractors": "b h j g",
-                "target": "v",
-                "display": "ía",
-                "word": "vía"
+                "id": 1536,
+                "distractors": "f l n q",
+                "target": "y",
+                "display": "rees",
+                "word": "reyes"
               }
             ]
           },
@@ -61,6 +54,108 @@
                 "target": "encima",
                 "chunks": "ma ci en",
                 "min_movements": 2
+              },
+              {
+                "id": 2024,
+                "target": "población",
+                "chunks": "po ción bla",
+                "min_movements": 1
+              },
+              {
+                "id": 2075,
+                "target": "productos",
+                "chunks": "duc tos pro",
+                "min_movements": 1
+              },
+              {
+                "id": 2032,
+                "target": "naturaleza",
+                "chunks": "tu na ra za le",
+                "min_movements": 2
+              },
+              {
+                "id": 1999,
+                "target": "contenido",
+                "chunks": "con ni te do",
+                "min_movements": 1
+              },
+              {
+                "id": 1880,
+                "target": "ahorra",
+                "chunks": "rra a ho",
+                "min_movements": 1
+              },
+              {
+                "id": 2016,
+                "target": "izquierda",
+                "chunks": "iz da qui er",
+                "min_movements": 1
+              },
+              {
+                "id": 1933,
+                "target": "perfecto",
+                "chunks": "fec per to",
+                "min_movements": 1
+              },
+              {
+                "id": 2063,
+                "target": "importancia",
+                "chunks": "im por cia tan",
+                "min_movements": 1
+              },
+              {
+                "id": 1902,
+                "target": "conjunto",
+                "chunks": "jun con to",
+                "min_movements": 1
+              },
+              {
+                "id": 2000,
+                "target": "contenido",
+                "chunks": "do ni te con",
+                "min_movements": 3
+              },
+              {
+                "id": 2040,
+                "target": "seguridad",
+                "chunks": "se gu dad ri",
+                "min_movements": 1
+              },
+              {
+                "id": 2012,
+                "target": "animales",
+                "chunks": "ni ma les a",
+                "min_movements": 1
+              },
+              {
+                "id": 1944,
+                "target": "velocidad",
+                "chunks": "ci dad lo ve",
+                "min_movements": 2
+              },
+              {
+                "id": 1909,
+                "target": "documento",
+                "chunks": "cu men do to",
+                "min_movements": 1
+              },
+              {
+                "id": 2006,
+                "target": "superior",
+                "chunks": "su rior pe",
+                "min_movements": 1
+              },
+              {
+                "id": 1892,
+                "target": "carácter",
+                "chunks": "rác ca ter",
+                "min_movements": 1
+              },
+              {
+                "id": 2088,
+                "target": "ministro",
+                "chunks": "nis mi tro",
+                "min_movements": 1
               }
             ]
           },
@@ -85,7 +180,75 @@
               {
                 "id": 1908,
                 "sentence": "A través de tus ojos veo el mundo."
-              }    
+              },
+              {
+                "id": 1963,
+                "sentence": "La tarta de galleta con chocolate es deliciosa."
+              },
+              {
+                "id": 2097,
+                "sentence": "No pierdas de vista el objetivo."
+              },
+              {
+                "id": 2135,
+                "sentence": "Si comentes un error y no lo corriges, comentes otro más grande."
+              },
+              {
+                "id": 2147,
+                "sentence": "Sin embargo nunca tuvo una foto impresa."
+              },
+              {
+                "id": 1984,
+                "sentence": "Necesitamos tu ayuda, por favor ven aquí."
+              },
+              {
+                "id": 1922,
+                "sentence": "Me gusta mucho el helado de chocolate."
+              },
+              {
+                "id": 1952,
+                "sentence": "He de admitir que me gusta el azul."
+              },
+              {
+                "id": 2121,
+                "sentence": "¿Te apetece tomar un café?"
+              },
+              {
+                "id": 2072,
+                "sentence": "El entusiasmo mueve el mundo."
+              },
+              {
+                "id": 1968,
+                "sentence": "Lo vio a través del espejo."
+              },
+              {
+                "id": 1956,
+                "sentence": "Con la lupa es posible ver los detalles."
+              },
+              {
+                "id": 2108,
+                "sentence": "¿Me ayudas con la fiesta sorpersa?"
+              },
+              {
+                "id": 1915,
+                "sentence": "Aprendió a montar en bicicleta por sí solo."
+              },
+              {
+                "id": 1993,
+                "sentence": "Se lo dije enseguida a mis compañeros."
+              },
+              {
+                "id": 2113,
+                "sentence": "¿Puedes ayudar a hacerlo?"
+              },
+              {
+                "id": 1929,
+                "sentence": "El detective cree estar siguiendo una buena pista."
+              },
+              {
+                "id": 2046,
+                "sentence": "Nos convertimos en lo que pensamos."
+              }
             ]
           }
         ]

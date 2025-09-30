@@ -66,4 +66,6 @@ public class UIManager : MonoBehaviour
         }
     }
     public Transform GetExercisePanel() { return ExercisePanel; }
-}
+
+    public ScoreWidget GetScoreWidget() { return ScoreWidget; }
+};

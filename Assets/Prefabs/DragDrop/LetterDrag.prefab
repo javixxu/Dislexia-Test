@@ -92,10 +92,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 72
-  m_fontSizeBase: 36
+  m_fontSize: 48
+  m_fontSizeBase: 48
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 1
@@ -246,7 +246,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ace2fcb9a0eae2748a7c37413b4247d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ColorOnDrag: {r: 1, g: 1, b: 1, a: 0.61960787}
-  ColorOnDragEnd: {r: 1, g: 1, b: 1, a: 0.09803922}
+  ColorOnDrag: {r: 0.2905661, g: 0.2905661, b: 0.2905661, a: 0.61960787}
+  ColorOnDragEnd: {r: 0.2901961, g: 0.2901961, b: 0.2901961, a: 0.09803922}
   label: {fileID: 5463519722401901935}
   placeholderPrefab: {fileID: 7042051531325898712, guid: fb4e45fa83cc0894182476ce7b4ce930, type: 3}

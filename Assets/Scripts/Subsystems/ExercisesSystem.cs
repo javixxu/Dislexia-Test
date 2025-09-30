@@ -7,7 +7,7 @@ public class ExercisesSystem
 {
     public Root loadedData;
 
-    int currentPackageIndex = 1; // El índice del paquete actual
+    int currentPackageIndex = 0; // El índice del paquete actual
     List<Exercise> pendingExercises; // Lista de ejercicios pendientes del paquete actual
 
     Dictionary<int, int> ExercisesDone;

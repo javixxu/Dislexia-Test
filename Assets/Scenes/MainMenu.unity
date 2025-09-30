@@ -596,6 +596,63 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 851546888}
   m_CullTransparentMesh: 1
+--- !u!1001 &883858650
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5686791280091024982, guid: ad9584b3f4f8ff94e8e93d8a0e087344, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1033.0065
+      objectReference: {fileID: 0}
+    - target: {fileID: 5686791280091024982, guid: ad9584b3f4f8ff94e8e93d8a0e087344, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 581.3093
+      objectReference: {fileID: 0}
+    - target: {fileID: 5686791280091024982, guid: ad9584b3f4f8ff94e8e93d8a0e087344, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.103977405
+      objectReference: {fileID: 0}
+    - target: {fileID: 5686791280091024982, guid: ad9584b3f4f8ff94e8e93d8a0e087344, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5686791280091024982, guid: ad9584b3f4f8ff94e8e93d8a0e087344, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5686791280091024982, guid: ad9584b3f4f8ff94e8e93d8a0e087344, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5686791280091024982, guid: ad9584b3f4f8ff94e8e93d8a0e087344, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5686791280091024982, guid: ad9584b3f4f8ff94e8e93d8a0e087344, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5686791280091024982, guid: ad9584b3f4f8ff94e8e93d8a0e087344, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5686791280091024982, guid: ad9584b3f4f8ff94e8e93d8a0e087344, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6546787988112275823, guid: ad9584b3f4f8ff94e8e93d8a0e087344, type: 3}
+      propertyPath: m_Name
+      value: AudioManager
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ad9584b3f4f8ff94e8e93d8a0e087344, type: 3}
 --- !u!1 &933699205
 GameObject:
   m_ObjectHideFlags: 0
@@ -732,17 +789,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 63a7a1a695845f349838ad97d5c9adc5, type: 3}
---- !u!114 &1049519848 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 5551120196535316751, guid: 63a7a1a695845f349838ad97d5c9adc5, type: 3}
-  m_PrefabInstance: {fileID: 1049519847}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3f43868f62789364580528f31f69e91a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1127011754
 GameObject:
   m_ObjectHideFlags: 0
@@ -827,6 +873,7 @@ GameObject:
   - component: {fileID: 1547791624}
   - component: {fileID: 1547791627}
   - component: {fileID: 1547791626}
+  - component: {fileID: 1547791628}
   - component: {fileID: 1547791625}
   m_Layer: 0
   m_Name: ResetButton
@@ -898,19 +945,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1547791626}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1049519848}
-        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: LoadScene
-        m_Mode: 5
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: GameLevel
-          m_BoolArgument: 0
-        m_CallState: 1
+      m_Calls: []
 --- !u!114 &1547791626
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -949,6 +984,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1547791623}
   m_CullTransparentMesh: 1
+--- !u!114 &1547791628
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1547791623}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e8ead6f5166e26469850a07887bde17, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  resetButton: {fileID: 1547791625}
+  levelToLoad: GameLevel
 --- !u!1 &2073564275
 GameObject:
   m_ObjectHideFlags: 0
@@ -986,6 +1035,7 @@ MonoBehaviour:
   countdownWidget: {fileID: 0}
   timerWidget: {fileID: 0}
   ScoreWidget: {fileID: 0}
+  InfoWidget: {fileID: 0}
 --- !u!114 &2073564277
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1199,3 +1249,4 @@ SceneRoots:
   - {fileID: 1049519847}
   - {fileID: 619394802}
   - {fileID: 933699208}
+  - {fileID: 883858650}

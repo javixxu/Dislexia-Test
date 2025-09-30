@@ -17,6 +17,9 @@ public class InsertLetterExercise : ExerciseBase
     [SerializeField]
     private GameObject DragLetterPrefab;
 
+    [SerializeField]
+    private Image emptyLetterImagePrefab;
+
     string targetWord;
     int missingIndex;
     List<string> options;
@@ -48,7 +51,7 @@ public class InsertLetterExercise : ExerciseBase
         if (missingIndex == -1)
         {
             Debug.LogWarning("No missing letter found in display word.");
-            missingIndex = 0; // fallback
+            missingIndex = targetWord.Length - 1; // fallback
         }
 
         // load options (distractors + target)
@@ -92,7 +95,11 @@ public class InsertLetterExercise : ExerciseBase
             if (i == missingIndex)
             {
                 slot.name = "MissingSlot";
-                slot.GetComponent<Image>().color = MissingColorLetter;
+                var img = slot.GetComponent<Image>();
+                img.color = MissingColorLetter;
+
+                Instantiate(emptyLetterImagePrefab, slot.transform);
+
             }
 
             letterSlot?.Init(text, i, i == missingIndex);
@@ -118,6 +125,6 @@ public class InsertLetterExercise : ExerciseBase
         GameManager.Instance.UpdateAnswersCounter(index == missingIndex);
 
         // End Exercise
-        StartCoroutine(EndAfter(0.4f));
+        StartCoroutine(EndAfter(0.7f));
     }
 }
