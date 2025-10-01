@@ -30,8 +30,6 @@ public class CountdownWidget : MonoBehaviour
             if (countdownText != null)
                 countdownText.text = counter.ToString();
 
-            Debug.Log("COUNTDOWN: " + counter);
-
             yield return new WaitForSeconds(1f); // Wait 1 sec
             counter--;
         }

@@ -83,13 +83,18 @@ public class GameManager : MonoBehaviour
         DestroyLastExercise();
 
         if (exercisesSystem.UpdateNextPackage())
+        {
             OnExerciseFinished();
-        else LoadScene("GameOver");
+        }
+        else
+        {
+            HandlePackageChanged(null);
+        }
     }
 
     void HandlePackageChanged(Package newPackage)
     {
-        timeSubsystem.SetTime(newPackage.time); // Update Timer
+        if(newPackage!=null) timeSubsystem.SetTime(newPackage.time); // Update Timer
 
         UIManager.Instance.GetExercisePanel()?.gameObject.SetActive(false);
 
@@ -107,6 +112,8 @@ public class GameManager : MonoBehaviour
 
         UIManager.Instance.ShowCountdown(5, () =>
         {
+            if (newPackage == null) { LoadScene("GameOver"); return; }
+
             // Esto se ejecuta cuando la cuenta atrás termina
             Debug.Log("¡Comenzamos el paquete " + newPackage.typeId + "!");
             timeSubsystem.Resume();
