@@ -19,15 +19,30 @@ public class ExercisesSystem
         ExercisesDone = new Dictionary<int, int>();
     }
 
-    public ExercisesSystem(string DataPath)
+    // Ahora recibimos directamente el JSON
+    public ExercisesSystem(string json, bool isRawJson = true)
     {
         ExercisesDone = new Dictionary<int, int>();
-        LoadData(DataPath);
+
+        if (isRawJson)
+        {
+            LoadFromJson(json);
+        }
+        else
+        {
+            // Para compatibilidad en Standalone
+            LoadFromFile(json);
+        }
     }
 
-    void LoadData(string DataPath)
+    private void LoadFromJson(string json)
     {
-        string json = File.ReadAllText(DataPath);
+        loadedData = JsonUtility.FromJson<Root>(json);
+    }
+
+    private void LoadFromFile(string path)
+    {
+        string json = File.ReadAllText(path);
         loadedData = JsonUtility.FromJson<Root>(json);
     }
 

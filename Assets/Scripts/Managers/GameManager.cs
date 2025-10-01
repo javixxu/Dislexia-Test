@@ -1,9 +1,11 @@
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.Networking;
 using UnityEngine.SceneManagement;
 
 
@@ -53,9 +55,10 @@ public class GameManager : MonoBehaviour
         Debug.Log("Initializasing GAME MANAGER");
         Instance = this;
 
-        string path = Path.Combine(Application.streamingAssetsPath, "data_exercises.json");
+        // string path = Path.Combine(Application.streamingAssetsPath, "data_exercises.json");
 
-        exercisesSystem = new ExercisesSystem(path);
+        // exercisesSystem = new ExercisesSystem();
+        StartCoroutine(InitExerciseSystem());
 
          TypeOfExercises = new Dictionary<int, GameObject>();
         foreach (var entry in TypeOfExercisesList)
@@ -67,6 +70,57 @@ public class GameManager : MonoBehaviour
         timeSubsystem = new TimeSubsystem();
 
         DontDestroyOnLoad(gameObject); // no se destruye al cambiar de escena
+    }
+
+    private IEnumerator InitExerciseSystem()
+    {
+#if UNITY_WEBGL && !UNITY_EDITOR
+    yield return LoadStreamingAsset("data_exercises.json", (data) =>
+    {
+        if (data != null)
+        {
+            string json = System.Text.Encoding.UTF8.GetString(data);
+            exercisesSystem = new ExercisesSystem(json, true); // raw JSON
+            Debug.Log("Exercises loaded (WebGL)");
+        }
+        else
+        {
+            Debug.LogError("Failed to load data_exercises.json in WebGL");
+        }
+    });
+#else
+        string path = Path.Combine(Application.streamingAssetsPath, "data_exercises.json");
+        if (File.Exists(path))
+        {
+            exercisesSystem = new ExercisesSystem(path, false); // ruta de archivo
+            Debug.Log("Exercises loaded (Standalone)");
+        }
+        else
+        {
+            Debug.LogError("File not found: " + path);
+        }
+        yield return null;
+#endif
+    }
+
+    public static IEnumerator LoadStreamingAsset(string relativePath, Action<byte[]> onComplete)
+    {
+        string url = Application.streamingAssetsPath + "/" + relativePath;
+
+        using (UnityWebRequest www = UnityWebRequest.Get(url))
+        {
+            yield return www.SendWebRequest();
+
+            if (www.result == UnityWebRequest.Result.Success)
+            {
+                onComplete?.Invoke(www.downloadHandler.data);
+            }
+            else
+            {
+                Debug.LogError($"Failed to load {url}: {www.error}");
+                onComplete?.Invoke(null);
+            }
+        }
     }
 
     private void Start()

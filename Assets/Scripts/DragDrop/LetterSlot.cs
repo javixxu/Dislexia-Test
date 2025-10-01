@@ -60,16 +60,4 @@ public class LetterSlot : MonoBehaviour, IDropHandler
 
         Debug.Log($"Slot: ¡Correcto!");
     }
-
-    void Update()
-    {
-        if (Input.GetMouseButtonDown(0))
-        {
-            Vector2 mousePos = Input.mousePosition;
-            if (RectTransformUtility.RectangleContainsScreenPoint((RectTransform)transform, mousePos))
-            {
-                Debug.Log($"Mouse clicked on slot: {correctLetter}");
-            }
-        }
-    }
 }

@@ -50,7 +50,6 @@ public class InsertLetterExercise : ExerciseBase
 
         if (missingIndex == -1)
         {
-            Debug.LogWarning("No missing letter found in display word.");
             missingIndex = targetWord.Length - 1; // fallback
         }
 
