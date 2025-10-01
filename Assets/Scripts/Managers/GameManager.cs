@@ -29,7 +29,7 @@ public class GameManager : MonoBehaviour
     //Exercises
     public ExercisesSystem exercisesSystem { get; private set; }
     public List<ExerciseEntry> TypeOfExercisesList;
-    Dictionary<int, GameObject> TypeOfExercises; //TODO: A more flexible structure should be adopted. 
+    Dictionary<int, GameObject> TypeOfExercises;
     public ExerciseBase currentExercise { get; private set; }
 
     //Time
@@ -53,9 +53,6 @@ public class GameManager : MonoBehaviour
         Debug.Log("Initializasing GAME MANAGER");
         Instance = this;
 
-        // string path = Path.Combine(Application.streamingAssetsPath, "data_exercises.json");
-
-        // exercisesSystem = new ExercisesSystem();
         StartCoroutine(InitExerciseSystem());
 
          TypeOfExercises = new Dictionary<int, GameObject>();
@@ -166,13 +163,12 @@ public class GameManager : MonoBehaviour
         {
             if (newPackage == null) { LoadScene("GameOver"); return; }
 
-            // Esto se ejecuta cuando la cuenta atrás termina
             Debug.Log("¡Comenzamos el paquete " + newPackage.typeId + "!");
             timeSubsystem.Resume();
 
             UIManager.Instance.GetExercisePanel()?.gameObject.SetActive(true);
 
-            answersCounter = new AnswersCounter(); // Update Score pero Package
+            answersCounter = new AnswersCounter(); // Update Score
             onAnswersCounterChanged?.Invoke(answersCounter);
         });
     }
@@ -195,7 +191,6 @@ public class GameManager : MonoBehaviour
             if (!exercisesSystem.UpdateNextPackage()) { //FINAL GAME
                 DestroyLastExercise();
 
-               // LoadScene("GameOver");
                 return;
             }
         }

@@ -7,7 +7,7 @@ public class TimeSubsystem
     bool bPaused;
     float TimeRemaining;
 
-    int lastWholeSecond; // último segundo entero registrado
+    int lastWholeSecond; // ultimo segundo entero registrado
 
     public event Action OnTimeOver;
     public event Action<int> OnSecondPassed; // se pasa el segundo actual

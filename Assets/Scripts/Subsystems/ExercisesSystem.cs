@@ -7,7 +7,7 @@ public class ExercisesSystem
 {
     public Root loadedData;
 
-    int currentPackageIndex = -1; // El índice del paquete actual
+    int currentPackageIndex = -1; // El indice del paquete actual
     List<Exercise> pendingExercises; // Lista de ejercicios pendientes del paquete actual
 
     Dictionary<int, int> ExercisesDone;
@@ -19,7 +19,6 @@ public class ExercisesSystem
         ExercisesDone = new Dictionary<int, int>();
     }
 
-    // Ahora recibimos directamente el JSON
     public ExercisesSystem(string json, bool isRawJson = true)
     {
         ExercisesDone = new Dictionary<int, int>();
@@ -87,7 +86,7 @@ public class ExercisesSystem
         return exercise;
     }
 
-    // Devuelve cuántos ejercicios se han hecho de un tipo
+    // Devuelve cuantos ejercicios se han hecho de un tipo
     public int GetExercisesDoneByType(int typeId)
     {
         if (ExercisesDone.ContainsKey(typeId))

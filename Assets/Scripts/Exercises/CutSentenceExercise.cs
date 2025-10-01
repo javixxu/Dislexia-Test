@@ -79,7 +79,7 @@ public class CutSentenceExercise : ExerciseBase, IPointerDownHandler
 
         UpdateSegments(clickedObj, localPoint);
 
-        CheckSolution(-1); // comprobar solución tras cada cambio
+        CheckSolution(-1); // comprobar solucion tras cada cambio
     }
 
     private void UpdateSegments(GameObject clickedSegment, Vector2 localPoint)
@@ -106,7 +106,6 @@ public class CutSentenceExercise : ExerciseBase, IPointerDownHandler
 
         allSegments.Insert(insertIndex, spaceGO);
 
-        // Opcional: mover la letra clicada si insertamos a la izquierda
         if (!insertRight)
             clickedSegment.transform.SetSiblingIndex(insertIndex + 1);
         else
