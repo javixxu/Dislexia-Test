@@ -14,6 +14,8 @@ public class LetterSlot : MonoBehaviour, IDropHandler
 
     DragLetter currentDragLetter = null;
 
+    [SerializeField]Color letterColor;
+
     public void Init(string correctLetter,int index = -1, bool bCanPlace = true)
     {
         this.correctLetter = correctLetter;
@@ -26,6 +28,7 @@ public class LetterSlot : MonoBehaviour, IDropHandler
             obj.transform.SetParent(transform);
             TextMeshProUGUI text = obj.AddComponent<TextMeshProUGUI>();
             text.text = correctLetter;
+            text.color = letterColor;
             text.enableAutoSizing = true;
             text.alignment = TextAlignmentOptions.Center;
         }
