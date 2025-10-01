@@ -8,6 +8,7 @@ public class OrderExercise : ExerciseBase
     [Header("UI References")]
     [SerializeField] private Transform wordParent;       // Slots donde va la palabra
     [SerializeField] private GameObject dragLetterPrefab;
+    [SerializeField] private TextMeshProUGUI CounterText;
 
     private string targetWord;
     private string[] correctChunks;
@@ -42,11 +43,15 @@ public class OrderExercise : ExerciseBase
             DragLetter drag = dragGO.GetComponent<DragLetter>();
             drag.Init(chunk, true);
         }
+        CounterText.text = restMovements.ToString();
     }
 
     public override void CheckSolution(int index = -1)
     {
         restMovements--;
+
+        CounterText.text = restMovements.ToString();
+
         // Construir la palabra final desde los slots
         string result = "";
         foreach (Transform slot in wordParent)

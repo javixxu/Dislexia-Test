@@ -8,9 +8,79 @@
             "subtype_id": 41,
             "subtypeId": 41,
             "subtype": "insert_target_letter_arbitrary",
-            "time": 5,
+            "time": 40,
             "level": 4,
             "exercises": [
+              {
+                "id": 1546,
+                "distractors": "r n m t",
+                "target": "s",
+                "display": "vetir",
+                "word": "vestir"
+              },
+              {
+                "id": 1520,
+                "distractors": "a u o i",
+                "target": "e",
+                "display": "nuva",
+                "word": "nueva"
+              },
+              {
+                "id": 1547,
+                "distractors": "b h j g",
+                "target": "v",
+                "display": "ía",
+                "word": "vía"
+              },
+              {
+                "id": 1467,
+                "distractors": "m t s r",
+                "target": "n",
+                "display": "coservantes",
+                "word": "conservantes"
+              },
+              {
+                "id": 1485,
+                "distractors": "r s a i",
+                "target": "e",
+                "display": "genral",
+                "word": "general"
+              },
+              {
+                "id": 1529,
+                "distractors": "s b n p",
+                "target": "r",
+                "display": "pimavera",
+                "word": "primavera"
+              },
+              {
+                "id": 1544,
+                "distractors": "z t s b",
+                "target": "d",
+                "display": "velocida",
+                "word": "velocidad"
+              },
+              {
+                "id": 1550,
+                "distractors": "i s o u",
+                "target": "e",
+                "display": "vija",
+                "word": "vieja"
+              },
+              {
+                "id": 1548,
+                "distractors": "e o u b",
+                "target": "i",
+                "display": "vidro",
+                "word": "vidrio"
+              },
+              {
+                "id": 1532,
+                "distractors": "a p u i",
+                "target": "e",
+                "display": "ralidad",
+                "word": "realidad"
+              },
               {
                 "id": 1543,
                 "distractors": "a o s r",
@@ -24,6 +94,62 @@
                 "target": "y",
                 "display": "rees",
                 "word": "reyes"
+              },
+              {
+                "id": 1496,
+                "distractors": "e a o s",
+                "target": "u",
+                "display": "hevos",
+                "word": "huevos"
+              },
+              {
+                "id": 1491,
+                "distractors": "c b z s",
+                "target": "p",
+                "display": "helicótero",
+                "word": "helicóptero"
+              },
+              {
+                "id": 1466,
+                "distractors": "m t s r",
+                "target": "n",
+                "display": "conservates",
+                "word": "conservantes"
+              },
+              {
+                "id": 1510,
+                "distractors": "e r t y",
+                "target": "a",
+                "display": "invaribles",
+                "word": "invariables"
+              },
+              {
+                "id": 1480,
+                "distractors": "u e o c",
+                "target": "a",
+                "display": "evalución",
+                "word": "evaluación"
+              },
+              {
+                "id": 1479,
+                "distractors": "r t h g",
+                "target": "s",
+                "display": "etrés",
+                "word": "estrés"
+              },
+              {
+                "id": 1522,
+                "distractors": "o n y t",
+                "target": "e",
+                "display": "nuve",
+                "word": "nueve"
+              },
+              {
+                "id": 1468,
+                "distractors": "s t n a",
+                "target": "r",
+                "display": "convesación",
+                "word": "conversación"
               }
             ]
           },
@@ -34,7 +160,7 @@
             "subtype_id": 48,
             "subtypeId": 48,
             "subtype": "order_chuncks_syllable",
-            "time": 5,
+            "time": 60,
             "level": 4,
             "exercises": [
               {
@@ -88,7 +214,7 @@
               {
                 "id": 2016,
                 "target": "izquierda",
-                "chunks": "iz da qui er",
+                "chunks": "iz da quier",
                 "min_movements": 1
               },
               {
@@ -166,7 +292,7 @@
             "subtype_id": 37,
             "subtypeId": 37,
             "subtype": "cut_sentence",
-            "time": 5,
+            "time": 40,
             "level": 4,
             "exercises": [
               {
