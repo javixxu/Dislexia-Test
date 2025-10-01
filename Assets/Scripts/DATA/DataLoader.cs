@@ -31,7 +31,7 @@ public class Exercise
     public string target;
     public string display;
     public string word;
-    public string chunks;        // opcional
-    public int min_movements;    // opcional
-    public string sentence;      // opcional
+    public string chunks;     
+    public int min_movements;    
+    public string sentence;      
 }

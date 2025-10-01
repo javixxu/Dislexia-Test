@@ -1,7 +1,4 @@
-using DG.Tweening.Core.Easing;
-using System;
 using TMPro;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.EventSystems;
 

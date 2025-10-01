@@ -22,7 +22,7 @@ public class DragLetter : MonoBehaviour, IPointerDownHandler, IBeginDragHandler,
     //Parent And Transform
     bool CheckOrderReparent;
     [SerializeField] 
-    private GameObject placeholderPrefab; // asignar en inspector
+    private GameObject placeholderPrefab;
     private GameObject placeholderInstance;
     private int originalIndex;
     RectTransform parentAfterDrag; // Set Parent After Drag
